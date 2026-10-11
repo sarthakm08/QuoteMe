@@ -11,24 +11,24 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
       <div
-        className="relative w-full max-w-2xl max-h-[85vh] bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl flex flex-col overflow-hidden text-left"
+        className="relative w-full max-w-2xl max-h-[90dvh] bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-2xl sm:rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl flex flex-col overflow-hidden text-left"
         role="dialog"
         aria-modal="true"
         aria-labelledby="about-title"
       >
         {/* Header */}
-        <div className="flex items-center justify-between p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C]">
+        <div className="flex items-center justify-between p-4 sm:p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C] shrink-0">
           <div className="flex items-center gap-2.5">
-            <div className="w-8 h-8 rounded-xl bg-[#737B5B]/15 text-[#737B5B] dark:text-[#9CA87F] flex items-center justify-center">
+            <div className="w-8 h-8 rounded-xl bg-[#737B5B]/15 text-[#737B5B] dark:text-[#9CA87F] flex items-center justify-center shrink-0">
               <Clock className="w-4 h-4" />
             </div>
             <div>
-              <h3 id="about-title" className="font-editorial text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
+              <h3 id="about-title" className="font-editorial text-lg sm:text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
                 About ChronoQuotes
               </h3>
-              <p className="text-xs text-[#777777] dark:text-[#888888]">
+              <p className="text-[11px] sm:text-xs text-[#777777] dark:text-[#888888]">
                 Time-Based Quote Discovery Platform
               </p>
             </div>
@@ -36,7 +36,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
 
           <button
             onClick={onClose}
-            className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors"
+            className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors cursor-pointer shrink-0"
             aria-label="Close modal"
           >
             <X className="w-4 h-4" />
@@ -44,7 +44,7 @@ export const AboutModal: React.FC<AboutModalProps> = ({ isOpen, onClose }) => {
         </div>
 
         {/* Content body */}
-        <div className="p-6 sm:p-8 overflow-y-auto flex-1 space-y-6 text-sm text-[#444444] dark:text-[#CCCCCC] leading-relaxed">
+        <div className="p-4 sm:p-8 overflow-y-auto flex-1 space-y-5 sm:space-y-6 text-sm text-[#444444] dark:text-[#CCCCCC] leading-relaxed">
           {/* Mission statement */}
           <div>
             <h4 className="font-editorial text-lg text-[#171717] dark:text-[#F4F1EA] mb-2 font-medium">

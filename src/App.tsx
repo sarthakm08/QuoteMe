@@ -7,6 +7,7 @@ import { ExploreSection } from './components/ExploreSection';
 import { FavoritesModal } from './components/FavoritesModal';
 import { AboutModal } from './components/AboutModal';
 import { TimeTravelerModal } from './components/TimeTravelerModal';
+import { MobileNav } from './components/MobileNav';
 import { Footer } from './components/Footer';
 import { ToastContainer } from './components/Toast';
 import type { ToastMessage } from './components/Toast';
@@ -365,6 +366,16 @@ export const App: React.FC = () => {
         onOpenAbout={() => setIsAboutOpen(true)}
         onOpenSimulator={() => setIsSimulatorOpen(true)}
         databaseStatus={dbStatus}
+      />
+
+      {/* Mobile Bottom Navigation Bar (Android & iPhone thumbs) */}
+      <MobileNav
+        activeTab={activeTab}
+        onSelectTab={handleSelectTab}
+        favoritesCount={prefs.favorites.length}
+        isSimulated={Boolean(simulatedDate || manualSlot)}
+        onOpenTimeSimulator={() => setIsSimulatorOpen(true)}
+        onOpenAbout={() => setIsAboutOpen(true)}
       />
 
       {/* Modals */}

@@ -75,42 +75,43 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
       <div
-        className="relative w-full max-w-2xl max-h-[85vh] bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl flex flex-col overflow-hidden text-left"
+        className="relative w-full max-w-2xl max-h-[90dvh] bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-2xl sm:rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl flex flex-col overflow-hidden text-left"
         role="dialog"
         aria-modal="true"
         aria-labelledby="favorites-title"
       >
         {/* Header */}
-        <div className="flex items-center justify-between p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C]">
-          <div className="flex items-center gap-2.5">
-            <div className="p-2 rounded-xl bg-rose-500/10 text-rose-600 dark:text-rose-400">
+        <div className="flex items-center justify-between p-4 sm:p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C] shrink-0">
+          <div className="flex items-center gap-2 sm:gap-2.5">
+            <div className="p-2 rounded-xl bg-rose-500/10 text-rose-600 dark:text-rose-400 shrink-0">
               <Bookmark className="w-4 h-4 fill-current" />
             </div>
             <div>
-              <h3 id="favorites-title" className="font-editorial text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
+              <h3 id="favorites-title" className="font-editorial text-lg sm:text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
                 Saved Favorites
               </h3>
-              <p className="text-xs text-[#777777] dark:text-[#888888] font-sans">
+              <p className="text-[11px] sm:text-xs text-[#777777] dark:text-[#888888] font-sans">
                 {favoriteQuotes.length} {favoriteQuotes.length === 1 ? 'quote' : 'quotes'} collected in your personal archive
               </p>
             </div>
           </div>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
             {favoriteQuotes.length > 0 && (
               <button
                 onClick={handleExportAll}
-                className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors"
+                className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors cursor-pointer"
                 title="Export favorites as text"
+                aria-label="Export favorites"
               >
                 <Download className="w-4 h-4" />
               </button>
             )}
             <button
               onClick={onClose}
-              className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors"
+              className="p-2 rounded-xl border border-[#E8E4DC] dark:border-[#2C2C2C] hover:bg-black/5 dark:hover:bg-white/5 text-[#555555] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white transition-colors cursor-pointer"
               aria-label="Close modal"
             >
               <X className="w-4 h-4" />
@@ -120,10 +121,10 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
 
         {/* Genre Filter Bar if multiple genres present */}
         {availableGenres.length > 1 && (
-          <div className="px-6 py-2.5 bg-white/50 dark:bg-[#181818]/50 border-b border-[#E8E4DC] dark:border-[#2C2C2C] flex items-center gap-1.5 overflow-x-auto no-scrollbar">
+          <div className="px-4 sm:px-6 py-2 sm:py-2.5 bg-white/50 dark:bg-[#181818]/50 border-b border-[#E8E4DC] dark:border-[#2C2C2C] flex items-center gap-1.5 overflow-x-auto no-scrollbar shrink-0">
             <button
               onClick={() => setSelectedGenre('all')}
-              className={`px-2.5 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-colors ${
+              className={`px-2.5 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-colors cursor-pointer ${
                 selectedGenre === 'all'
                   ? 'bg-[#171717] dark:bg-[#F4F1EA] text-[#F7F5F0] dark:text-[#171717]'
                   : 'text-[#666666] dark:text-[#888888] hover:text-[#171717] dark:hover:text-[#F4F1EA]'
@@ -135,7 +136,7 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
               <button
                 key={g}
                 onClick={() => setSelectedGenre(g)}
-                className={`px-2.5 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-colors ${
+                className={`px-2.5 py-1 rounded-lg text-xs font-medium whitespace-nowrap transition-colors cursor-pointer ${
                   selectedGenre === g
                     ? 'bg-[#171717] dark:bg-[#F4F1EA] text-[#F7F5F0] dark:text-[#171717]'
                     : 'text-[#666666] dark:text-[#888888] hover:text-[#171717] dark:hover:text-[#F4F1EA]'
@@ -148,15 +149,15 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
         )}
 
         {/* Content list */}
-        <div className="p-6 overflow-y-auto flex-1 space-y-4">
+        <div className="p-4 sm:p-6 overflow-y-auto flex-1 space-y-3.5 sm:space-y-4">
           {filtered.map((quote) => {
             const isCopied = copiedId === quote.id;
             return (
               <div
                 key={quote.id}
-                className="p-5 rounded-2xl bg-white dark:bg-[#252525] border border-[#E8E4DC] dark:border-[#333333] hover:border-[#737B5B] transition-colors"
+                className="p-4 sm:p-5 rounded-xl sm:rounded-2xl bg-white dark:bg-[#252525] border border-[#E8E4DC] dark:border-[#333333] hover:border-[#737B5B] transition-colors"
               >
-                <blockquote className="font-serif-quote text-base sm:text-lg text-[#171717] dark:text-[#F4F1EA] leading-relaxed mb-3">
+                <blockquote className="font-serif-quote text-sm sm:text-base md:text-lg text-[#171717] dark:text-[#F4F1EA] leading-relaxed mb-3">
                   “{quote.text}”
                 </blockquote>
 

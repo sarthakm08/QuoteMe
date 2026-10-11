@@ -78,39 +78,39 @@ export const TimeTravelerModal: React.FC<TimeTravelerModalProps> = ({
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fade-in">
       <div
-        className="relative w-full max-w-xl bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl overflow-hidden text-left"
+        className="relative w-full max-w-xl max-h-[90dvh] flex flex-col bg-[#F7F5F0] dark:bg-[#1E1E1E] rounded-2xl sm:rounded-3xl border border-[#E8E4DC] dark:border-[#2C2C2C] shadow-2xl overflow-hidden text-left"
         role="dialog"
         aria-modal="true"
         aria-labelledby="simulator-title"
       >
         {/* Header */}
-        <div className="flex items-center justify-between p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C]">
-          <div className="flex items-center gap-2.5">
-            <div className="w-8 h-8 rounded-xl bg-amber-500/15 text-amber-700 dark:text-amber-300 flex items-center justify-center">
+        <div className="flex items-center justify-between p-4 sm:p-6 border-b border-[#E8E4DC] dark:border-[#2C2C2C] shrink-0">
+          <div className="flex items-center gap-2 sm:gap-2.5">
+            <div className="w-8 h-8 rounded-xl bg-amber-500/15 text-amber-700 dark:text-amber-300 flex items-center justify-center shrink-0">
               <Clock className="w-4 h-4" />
             </div>
             <div>
-              <h3 id="simulator-title" className="font-editorial text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
+              <h3 id="simulator-title" className="font-editorial text-lg sm:text-xl font-semibold text-[#171717] dark:text-[#F4F1EA]">
                 IST Time Traveler
               </h3>
-              <p className="text-xs text-[#777777] dark:text-[#888888]">
+              <p className="text-[11px] sm:text-xs text-[#777777] dark:text-[#888888] line-clamp-1">
                 Explore quotes & ambient themes across any time of day
               </p>
             </div>
           </div>
 
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
             {isSimulated && (
               <button
                 onClick={() => {
                   onResetToLive();
                   onClose();
                 }}
-                className="px-2.5 py-1.5 rounded-xl border border-amber-500/30 bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-mono-time hover:bg-amber-500/20 transition-colors flex items-center gap-1.5 cursor-pointer"
+                className="px-2 sm:px-2.5 py-1.5 rounded-xl border border-amber-500/30 bg-amber-500/10 text-amber-700 dark:text-amber-300 text-xs font-mono-time hover:bg-amber-500/20 transition-colors flex items-center gap-1.5 cursor-pointer"
                 title="Reset to live IST"
               >
                 <RotateCcw className="w-3 h-3" />
-                <span>Live IST</span>
+                <span className="hidden xs:inline sm:inline">Live IST</span>
               </button>
             )}
             <button
@@ -123,10 +123,10 @@ export const TimeTravelerModal: React.FC<TimeTravelerModalProps> = ({
           </div>
         </div>
 
-        {/* Content body */}
-        <div className="p-6 space-y-6">
+        {/* Content body with responsive scroll */}
+        <div className="p-4 sm:p-6 overflow-y-auto flex-1 space-y-4 sm:space-y-6">
           {/* Status banner */}
-          <div className={`p-4 rounded-2xl border text-xs ${
+          <div className={`p-3.5 sm:p-4 rounded-xl sm:rounded-2xl border text-xs ${
             isSimulated
               ? 'bg-amber-500/10 border-amber-500/30 text-amber-800 dark:text-amber-200'
               : 'bg-emerald-500/10 border-emerald-500/30 text-emerald-800 dark:text-emerald-200'
@@ -144,10 +144,10 @@ export const TimeTravelerModal: React.FC<TimeTravelerModalProps> = ({
 
           {/* Rapid Presets Grid */}
           <div>
-            <h4 className="text-xs uppercase font-semibold tracking-wider text-[#737B5B] dark:text-[#9CA87F] mb-3">
+            <h4 className="text-xs uppercase font-semibold tracking-wider text-[#737B5B] dark:text-[#9CA87F] mb-2.5">
               Core Test Presets
             </h4>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-2.5">
               {PRESETS.map((preset) => {
                 const isCurrentSim = simulatedHour === preset.hour;
                 return (
@@ -183,7 +183,7 @@ export const TimeTravelerModal: React.FC<TimeTravelerModalProps> = ({
           </div>
 
           {/* Time of Day Slider */}
-          <div className="p-4 rounded-2xl bg-white dark:bg-[#252525] border border-[#E8E4DC] dark:border-[#2E2E2E]">
+          <div className="p-3.5 sm:p-4 rounded-xl sm:rounded-2xl bg-white dark:bg-[#252525] border border-[#E8E4DC] dark:border-[#2E2E2E]">
             <div className="flex items-center justify-between mb-2">
               <span className="text-xs font-semibold text-[#171717] dark:text-[#F4F1EA]">
                 Custom Hour Slider
@@ -199,26 +199,26 @@ export const TimeTravelerModal: React.FC<TimeTravelerModalProps> = ({
               step="1"
               value={simulatedHour ?? 12}
               onChange={(e) => onApplySimulatedTime(parseInt(e.target.value, 10), 0)}
-              className="w-full accent-[#737B5B] cursor-pointer"
+              className="w-full accent-[#737B5B] cursor-pointer h-6"
             />
             <div className="flex justify-between text-[10px] font-mono-time text-[#888888] mt-1.5">
-              <span>00:00 (Late Night)</span>
-              <span>08:00 (Morning)</span>
-              <span>12:00 (Afternoon)</span>
-              <span>18:00 (Evening)</span>
+              <span>00:00 (Night)</span>
+              <span>08:00 (Morn)</span>
+              <span>12:00 (Noon)</span>
+              <span>18:00 (Eve)</span>
               <span>23:00</span>
             </div>
           </div>
         </div>
 
         {/* Footer */}
-        <div className="p-4 bg-white/40 dark:bg-[#181818]/40 border-t border-[#E8E4DC] dark:border-[#2C2C2C] flex items-center justify-between">
+        <div className="p-3.5 sm:p-4 bg-white/40 dark:bg-[#181818]/40 border-t border-[#E8E4DC] dark:border-[#2C2C2C] flex items-center justify-between shrink-0">
           <button
             onClick={() => {
               onResetToLive();
               onClose();
             }}
-            className="text-xs text-[#666666] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white underline underline-offset-2 transition-colors font-sans cursor-pointer"
+            className="text-xs text-[#666666] dark:text-[#AAAAAA] hover:text-[#171717] dark:hover:text-white underline underline-offset-2 transition-colors font-sans cursor-pointer py-1"
           >
             Reset to real-world clock
           </button>
