@@ -1,0 +1,7074 @@
+[
+  {
+    "id": "hf-00001",
+    "text": "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "author": "Marilyn Monroe",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00002",
+    "text": "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "author": "William W. Purkey",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00003",
+    "text": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+    "author": "Dr. Seuss",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00004",
+    "text": "A friend is someone who knows all about you and still loves you.",
+    "author": "Elbert Hubbard",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00005",
+    "text": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "author": "Martin Luther King Jr.",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "A Testament of Hope: The Essential Writings and Speeches",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00006",
+    "text": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Perks of Being a Wallflower",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00007",
+    "text": "It is better to be hated for what you are than to be loved for what you are not.",
+    "author": "André Gide",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Autumn Leaves",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00008",
+    "text": "As he read, I fell in love the way you fall asleep: slowly, and then all at once.",
+    "author": "John Green",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Fault in Our Stars",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00009",
+    "text": "The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.",
+    "author": "Elie Wiesel",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00010",
+    "text": "It is not a lack of love, but a lack of friendship that makes unhappy marriages.",
+    "author": "Friedrich Nietzsche",
+    "genres": [
+      "Existentialism",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00011",
+    "text": "I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Dark Academia"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "100 Love Sonnets",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00012",
+    "text": "Love all, trust a few, do wrong to none.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "All's Well That Ends Well",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00013",
+    "text": "Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up.",
+    "author": "Neil Gaiman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Kindly Ones",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00014",
+    "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    "author": "Lao Tzu",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00015",
+    "text": "There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.",
+    "author": "Sarah Dessen",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Truth About Forever",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00016",
+    "text": "Love is that condition in which the happiness of another person is essential to your own.",
+    "author": "Robert A. Heinlein",
+    "genres": [
+      "Love & Relationships",
+      "Minimalism"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Stranger in a Strange Land",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00017",
+    "text": "You love me. Real or not real?\"I tell him, \"Real.",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Mockingjay",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00018",
+    "text": "I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00019",
+    "text": "Love looks not with the eyes, but with the mind,And therefore is winged Cupid painted blind.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning",
+      "night"
+    ],
+    "source": "A Midsummer Night's Dream",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00020",
+    "text": "Love is like the wind, you can't see it but you can feel it.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "A Walk to Remember",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00021",
+    "text": "If you can make a woman laugh, you can make her do anything.",
+    "author": "Marilyn Monroe",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00022",
+    "text": "You don't love someone because they're perfect, you love them in spite of the fact that they're not.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "My Sister's Keeper",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00023",
+    "text": "We’re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love.",
+    "author": "Robert Fulghum",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "True Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00024",
+    "text": "Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.",
+    "author": "Anaïs Nin",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00025",
+    "text": "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.",
+    "author": "Jane Austen",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Northanger Abbey",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00026",
+    "text": "The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.",
+    "author": "Marilyn Monroe",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00027",
+    "text": "If I had a flower for every time I thought of you...I could walk through my garden forever.",
+    "author": "Alfred Tennyson",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00028",
+    "text": "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "author": "Jess C. Scott",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Intern",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00029",
+    "text": "Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.\"After all this time?\"\"Always,\" said Snape.",
+    "author": "J.K. Rowling",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Harry Potter and the Deathly Hallows",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00030",
+    "text": "To die will be an awfully big adventure.",
+    "author": "J.M. Barrie",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Peter Pan",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00031",
+    "text": "A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.",
+    "author": "Jane Austen",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Pride and Prejudice",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00032",
+    "text": "So it's not gonna be easy. It's going to be really hard; we're gonna have to work at this everyday, but I want to do that because I want you. I want all of you, forever, everyday. You and me... everyday.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Discipline & Consistency",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00033",
+    "text": "Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "At First Sight",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00034",
+    "text": "Tis better to have loved and lost, Than never to have loved at all.",
+    "author": "Alfred Tennyson",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "In Memoriam",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00035",
+    "text": "I love you as certain dark things are to be loved, in secret, between the shadow and the soul.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "100 Love Sonnets",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00036",
+    "text": "The one you love and the one who loves you are never, ever the same person.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Invisible Monsters",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00037",
+    "text": "Some people don't understand the promises they're making when they make them,\" I said.\"Right, of course. But you keep the promise anyway. That's what love is. Love is keeping the promise anyway.",
+    "author": "John Green",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "The Fault in Our Stars",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00038",
+    "text": "Love is needing someone. Love is putting up with someone's bad qualities because they somehow complete you.",
+    "author": "Sarah Dessen",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "This Lullaby",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00039",
+    "text": "When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.",
+    "author": "Mahatma Gandhi",
+    "genres": [
+      "Creativity",
+      "Existentialism",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00040",
+    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It is not rude, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
+    "author": "Anonymous",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "Holy Bible: New International Version",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00041",
+    "text": "One is loved because one is loved. No reason is needed for loving.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "The Alchemist",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00042",
+    "text": "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Alchemist",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00043",
+    "text": "We love the things we love for what they are.",
+    "author": "Robert Frost",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00044",
+    "text": "I would die for you. But I won't live for you.",
+    "author": "Stephen Chbosky",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Perks of Being a Wallflower",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00045",
+    "text": "In vain have I struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.",
+    "author": "Jane Austen",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Pride And Prejudice",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00046",
+    "text": "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage. Perhaps everything that frightens us is, in its deepest essence, something helpless that wants our love.",
+    "author": "Rainer Maria Rilke",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Letters to a Young Poet",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00047",
+    "text": "You are, and always have been, my dream.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00048",
+    "text": "You are my best friend as well as my lover, and I do not know which side of you I enjoy the most. I treasure each side, just as I have treasured our life together.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00049",
+    "text": "The only thing worse than a boy who hates you: a boy that loves you.",
+    "author": "Markus Zusak",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Book Thief",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00050",
+    "text": "So, I love you because the entire universe conspired to help me find you.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "The Alchemist",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00051",
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00052",
+    "text": "Never love anyone who treats you like you're ordinary.",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00053",
+    "text": "I would always rather be happy than dignified.",
+    "author": "Charlotte Brontë",
+    "genres": [
+      "Confidence",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": "Jane Eyre",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00054",
+    "text": "Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.",
+    "author": "Nicole Krauss",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The History of Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00055",
+    "text": "Nobody has ever measured, not even poets, how much the heart can hold.",
+    "author": "Zelda Fitzgerald",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00056",
+    "text": "The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that's what you've given me. That's what I'd hoped to give you forever",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00057",
+    "text": "We fell in love, despite our differences, and once we did, something rare and beautiful was created. For me, love like that has only happened once, and that's why every minute we spent together has been seared in my memory. I'll never forget a single moment of it.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00058",
+    "text": "Some women choose to follow men, and some women choose to follow their dreams. If you're wondering which way to go, remember that your career will never wake up and tell you that it doesn't love you anymore.",
+    "author": "Lady Gaga",
+    "genres": [
+      "Discipline & Consistency",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00059",
+    "text": "I think you still love me, but we can’t escape the fact that I’m not enough for you. I knew this was going to happen. So I’m not blaming you for falling in love with another woman. I’m not angry, either. I should be, but I’m not. I just feel pain. A lot of pain. I thought I could imagine how much this would hurt, but I was wrong.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "South of the Border, West of the Sun",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00060",
+    "text": "We loved with a love that was more than love.",
+    "author": "Edgar Allan Poe",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00061",
+    "text": "And so the lion fell in love with the lamb…\" he murmured. I looked away, hiding my eyes as I thrilled to the word.\"What a stupid lamb,\" I sighed.\"What a sick, masochistic lion.",
+    "author": "Stephenie Meyer",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Twilight",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00062",
+    "text": "This is a good sign, having a broken heart. It means we have tried for something.",
+    "author": "Elizabeth Gilbert",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eat, Pray, Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00063",
+    "text": "Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet.",
+    "author": "Plato",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00064",
+    "text": "I heard what you said. I’m not the silly romantic you think. I don’t want the heavens or the shooting stars. I don’t want gemstones or gold. I have those things already. I want…a steady hand. A kind soul. I want to fall asleep, and wake, knowing my heart is safe. I want to love, and be loved.",
+    "author": "Shana Abe",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00065",
+    "text": "A guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever",
+    "author": "Dave Matthews Band",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00066",
+    "text": "The more I know of the world, the more I am convinced that I shall never see a man whom I can really love. I require so much!",
+    "author": "Jane Austen",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Sense and Sensibility",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00067",
+    "text": "Eleanor was right. She never looked nice. She looked like art, and art wasn't supposed to look nice; it was supposed to make you feel something.",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eleanor & Park",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00068",
+    "text": "He's more myself than I am. Whatever our souls are made of, his and mine are the same.",
+    "author": "Emily Brontë",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Wuthering Heights",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00069",
+    "text": "I have decided to stick to love...Hate is too great a burden to bear.",
+    "author": "Martin Luther King Jr.",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "A Testament of Hope: The Essential Writings and Speeches",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00070",
+    "text": "What's meant to be will always find a way",
+    "author": "Trisha Yearwood",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00071",
+    "text": "Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.",
+    "author": "Fyodor Dostoyevsky",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy",
+      "Self-Respect & Boundaries"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "The Brothers Karamazov",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00072",
+    "text": "Out beyond ideas of wrongdoing and rightdoing there is a field.I'll meet you there.When the soul lies down in that grassthe world is too full to talk about.",
+    "author": "Jalaluddin Rumi",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00073",
+    "text": "They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.",
+    "author": "Tom Bodett",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00074",
+    "text": "Two people in love, alone, isolated from the world, that's beautiful.",
+    "author": "Milan Kundera",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00075",
+    "text": "The heart was made to be broken.",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00076",
+    "text": "Love is always patient and kind. It is never jealous. Love is never boastful or conceited. It is never rude or selfish. It does not take offense and is not resentful. Love takes no pleasure in other people’s sins, but delights in the truth. It is always ready to excuse, to trust, to hope, and to endure whatever comes.",
+    "author": "Anonymous",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "Holy Bible: New International Version",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00077",
+    "text": "This above all: to thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Hamlet",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00078",
+    "text": "For the two of us, home isn't a place. It is a person. And we are finally home.",
+    "author": "Stephanie Perkins",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Anna and the French Kiss",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00079",
+    "text": "They didn’t agree on much. In fact, they didn’t agree on anything. They fought all the time and challenged each other ever day. But despite their differences, they had one important thing in common. They were crazy about each other.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00080",
+    "text": "You could have had anything else in the world, and you asked for me.\"She smiled up at him. Filthy as he was, covered in blood and dirt, he was the most beautiful thing she'd ever seen.\"But I don't want anything else in the world.",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "City of Glass",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00081",
+    "text": "I think if I've learned anything about friendship, it's to hang in, stay connected, fight for them, and let them fight for you. Don't walk away, don't be distracted, don't be too busy or tired, don't take them for granted. Friends are part of the glue that holds life and faith together. Powerful stuff.",
+    "author": "Jon Katz",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00082",
+    "text": "Love is so short, forgetting is so long.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Love: Ten Poems",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00083",
+    "text": "To douchebags!\" he said, gesturing to Brad. \"And to girls that break your heart,\" he bowed his head to me. His eyes lost focus. \"And to the absolute fucking horror of losing your best friend because you were stupid enough to fall in love with her.",
+    "author": "Jamie McGuire",
+    "genres": [
+      "Creativity",
+      "Discipline & Consistency",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Beautiful Disaster",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00084",
+    "text": "The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.",
+    "author": "J.R.R. Tolkien",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Fellowship of the Ring",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00085",
+    "text": "The very essence of romance is uncertainty.",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Importance of Being Earnest and Other Plays",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00086",
+    "text": "What I want is to be needed. What I need is to be indispensable to somebody. Who I need is somebody that will eat up all my free time, my ego, my attention. Somebody addicted to me. A mutual addiction.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Choke",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00087",
+    "text": "There is always some madness in love. But there is also always some reason in madness.",
+    "author": "Friedrich Nietzsche",
+    "genres": [
+      "Existentialism",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00088",
+    "text": "My daddy said, that the first time you fall in love, it changes you forever and no matter how hard you try, that feeling just never goes away.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00089",
+    "text": "If all else perished, and he remained, I should still continue to be; and if all else remained, and he were annihilated, the universe would turn to a mighty stranger.",
+    "author": "Emily Brontë",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Wuthering Heights",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00090",
+    "text": "Man may have discovered fire, but women discovered how to play with it.",
+    "author": "Candace Bushnell",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Sex and the City",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00091",
+    "text": "And, in the endThe love you takeis equal to the love you make.",
+    "author": "Paul McCartney",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Beatles Illustrated Lyrics",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00092",
+    "text": "What I need is the dandelion in the spring. The bright yellow that means rebirth instead of destruction. The promise that life can go on, no matter how bad our losses. That it can be good again.",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Mockingjay",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00093",
+    "text": "Love does not consist of gazing at each other, but in looking outward together in the same direction.",
+    "author": "Antoine de Saint-Exupéry",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Airman's Odyssey",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00094",
+    "text": "I am not sure exactly what heaven will be like, but I know that when we die and it comes time for God to judge us, he will not ask, 'How many good things have you done in your life?' rather he will ask, 'How much love did you put into what you did?",
+    "author": "Mother Teresa",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00095",
+    "text": "Love is a fire. But whether it is going to warm your hearth or burn down your house, you can never tell.",
+    "author": "Joan Crawford",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00096",
+    "text": "You are the answer to every prayer I've offered. You are a song, a dream, a whisper, and I don't know how I could have lived without you for as long as I have.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00097",
+    "text": "I can feel Peeta press his forehead into my temple and he asks, 'So now that you've got me, what are you going to do with me?' I turn into him. 'Put you somewhere you can't get hurt.",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Hunger Games",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00098",
+    "text": "If you remember me, then I don't care if everyone else forgets.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Kafka on the Shore",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00099",
+    "text": "I don't trust people who don't love themselves and tell me, 'I love you.' ... There is an African saying which is: Be careful when a naked person offers you a shirt.",
+    "author": "Maya Angelou",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00100",
+    "text": "It was love at first sight, at last sight, at ever and ever sight.",
+    "author": "Vladimir Nabokov",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Lolita",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00101",
+    "text": "Love doesn't just sit there, like a stone, it has to be made, like bread; remade all the time, made new.",
+    "author": "Ursula K. Le Guin",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Lathe of Heaven",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00102",
+    "text": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "author": "Anonymous",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Holy Bible: King James Version",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00103",
+    "text": "My dear,Find what you love and let it kill you.Let it drain you of your all. Let it cling onto your back and weigh you down into eventual nothingness.Let it kill you and let it devour your remains.For all things will kill you, both slowly and fastly, but it’s much better to be killed by a lover.~ Falsely yours",
+    "author": "Charles Bukowski",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00104",
+    "text": "If you like her, if she makes you happy, and if you feel like you know her---then don't let her go.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Message in a Bottle",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00105",
+    "text": "How many slams in an old screen door? Depends how loud you shut it. How many slices in a bread? Depends how thin you cut it. How much good inside a day? Depends how good you live 'em. How much love inside a friend? Depends how much you give 'em.",
+    "author": "Shel Silverstein",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00106",
+    "text": "If pain must come, may it come quickly. Because I have a life to live, and I need to live it in the best way possible. If he has to make a choice, may he make it now. Then I will either wait for him or forget him.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "By the River Piedra I Sat Down and Wept",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00107",
+    "text": "Be careful of love. It'll twist your brain around and leave you thinking up is down and right is wrong.",
+    "author": "Rick Riordan",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Battle of the Labyrinth",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00108",
+    "text": "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.",
+    "author": "Kahlil Gibran",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00109",
+    "text": "I love you. Remember. They cannot take it",
+    "author": "Lauren Oliver",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Delirium",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00110",
+    "text": "Do you think I'm pretty?I think you're beautifulBeautiful?You are so beautiful, it hurts sometimes.",
+    "author": "Richelle Mead",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Vampire Academy",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00111",
+    "text": "I love you more than there are stars in the sky and fish in the sea.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00112",
+    "text": "When love is not madness it is not love.",
+    "author": "Pedro Calderón de la Barca",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00113",
+    "text": "Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+    "author": "James     Baldwin",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00114",
+    "text": "A woman's heart should be so hidden in God that a man has to seek Him just to find her.",
+    "author": "Max Lucado",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00115",
+    "text": "Declarations of love amuse me. Especially when unrequited.",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "City of Bones",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00116",
+    "text": "I cannot fix on the hour, or the spot, or the look or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun.",
+    "author": "Jane Austen",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Pride and Prejudice",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00117",
+    "text": "True love is rare, and it's the only thing that gives life real meaning.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "Message in a Bottle",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00118",
+    "text": "What's this?\" he demanded, looking from Clary to his companions, as if they might know what she was doing there.\"It's a girl,\" Jace said,recovering his composure. \"Surely you've seen girls before, Alec. Your sister Isabelle is one.",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "City of Bones",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00119",
+    "text": "Love is an irresistible desire to be irresistibly desired.",
+    "author": "Robert Frost",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00120",
+    "text": "I was smiling yesterday,I am smiling today and I will smile tomorrow.Simply because life is too short to cry for anything.",
+    "author": "Santosh Kalwar",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Quote Me Everyday",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00121",
+    "text": "It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.",
+    "author": "Vincent van Gogh",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00122",
+    "text": "I love you also means I love you more than anyone loves you, or has loved you, or will love you, and also, I love you in a way that no one loves you, or has loved you, or will love you, and also, I love you in a way that I love no one else, and never have loved anyone else, and never will love anyone else.",
+    "author": "Jonathan Safran Foer",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00123",
+    "text": "If I can stop one heart from breaking, I shall not live in vain.",
+    "author": "Emily Dickinson",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00124",
+    "text": "When the power of love overcomes the love of power, the world will know peace.",
+    "author": "Jimi Hendrix",
+    "genres": [
+      "Confidence",
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00125",
+    "text": "I think... if it is true that there are as many minds as there are heads, then there are as many kinds of love as there are hearts.",
+    "author": "Leo Tolstoy",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "Anna Karenina",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00126",
+    "text": "It is a curious thought, but it is only when you see people looking ridiculous that you realize just how much you love them.",
+    "author": "Agatha Christie",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "An Autobiography",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00127",
+    "text": "The greater the love, the greater the tragedy when it's over.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Nights in Rodanthe",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00128",
+    "text": "Hate the sin, love the sinner.",
+    "author": "Mahatma Gandhi",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00129",
+    "text": "Of all forms of caution, caution in love is perhaps the most fatal to true happiness.",
+    "author": "Bertrand Russell",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Conquest of Happiness",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00130",
+    "text": "One love, one heart, one destiny.",
+    "author": "Bob Marley",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00131",
+    "text": "I loved her against reason, against promise, against peace, against hope, against happiness, against all discouragement that could be.",
+    "author": "Charles Dickens",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "Great Expectations",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00132",
+    "text": "I fell in love with her courage, her sincerity, and her flaming self respect. And it's these things I'd believe in, even if the whole world indulged in wild suspicions that she wasn't all she should be. I love her and it is the beginning of everything.",
+    "author": "F. Scott Fitzgerald",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00133",
+    "text": "If you gave someone your heart and they died, did they take it with them? Did you spend the rest of forever with a hole inside you that couldn't be filled?",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Nineteen Minutes",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00134",
+    "text": "It's not the face, but the expressions on it. It's not the voice, but what you say. It's not how you look in that body, but the thing you do with it. You are beautiful.",
+    "author": "Stephenie Meyer",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Host",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00135",
+    "text": "You know, when it works, love is pretty amazing. It's not overrated. There's a reason for all those songs.",
+    "author": "Sarah Dessen",
+    "genres": [
+      "Discipline & Consistency",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "This Lullaby",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00136",
+    "text": "What Is Love? I have met in the streets a very poor young man who was in love. His hat was old, his coat worn, the water passed through his shoes and the stars through his soul",
+    "author": "Victor Hugo",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Les Misérables",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00137",
+    "text": "All I ever wanted was to reach out and touch another human being not just with my hands but with my heart.",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Shatter Me",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00138",
+    "text": "To me, Fearless is not the absense of fear. It's not being completely unafraid. To me, Fearless is having fears. Fearless is having doubts. Lots of them. To me, Fearless is living in spite of those things that scare you to death.",
+    "author": "Taylor Swift",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00139",
+    "text": "I love you like a fat kid loves cake!",
+    "author": "Scott Adams",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00140",
+    "text": "If she's amazing, she won't be easy. If she's easy, she won't be amazing. If she's worth it, you wont give up. If you give up, you're not worthy. ... Truth is, everybody is going to hurt you; you just gotta find the ones worth suffering for.",
+    "author": "Bob Marley",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Guitar Chord Songbook - Bob Marley",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00141",
+    "text": "It isn't possible to love and part. You will wish that it was. You can transmute love, ignore it, muddle it, but you can never pull it out of you. I know by experience that the poets are right: love is eternal.",
+    "author": "E.M. Forster",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "A Room with a View",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00142",
+    "text": "Gravitation is not responsible for people falling in love.",
+    "author": "Albert Einstein",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00143",
+    "text": "We waste time looking for the perfect lover, instead of creating the perfect love.",
+    "author": "Tom Robbins",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00144",
+    "text": "They say when you are missing someone that they are probably feeling the same, but I don't think it's possible for you to miss me as much as I'm missing you right now",
+    "author": "Edna St. Vincent Millay",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00145",
+    "text": "And when her lips met mine, I knew that I could live to be a hundred and visit every country in the world, but nothing would ever compare to that single moment when I first kissed the girl of my dreams and knew that my love would last forever.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Dear John",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00146",
+    "text": "Any fool can be happy. It takes a man with real heart to make beauty out of the stuff that makes us weep.",
+    "author": "Clive Barker",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Days of Magic, Nights of War",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00147",
+    "text": "Welcome to the wonderful world of jealousy, he thought. For the price of admission, you get a splitting headache, a nearly irresistable urge to commit murder, and an inferiority complex. Yippee.",
+    "author": "J.R. Ward",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Dark Lover",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00148",
+    "text": "You couldn't relive your life, skipping the awful parts, without losing what made it worthwhile. You had to accept it as a whole--like the world, or the person you loved.",
+    "author": "Stewart O'Nan",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Odds: A Love Story",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00149",
+    "text": "What is hell? I maintain that it is the suffering of being unable to love.",
+    "author": "Fyodor Dostoyevsky",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Brothers Karamazov",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00150",
+    "text": "Never close your lips to those whom you have already opened your heart.",
+    "author": "Charles Dickens",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00151",
+    "text": "Love is not affectionate feeling, but a steady wish for the loved person's ultimate good as far as it can be obtained.",
+    "author": "C.S. Lewis",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00152",
+    "text": "The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.",
+    "author": "Ernest Hemingway",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Men Without Women",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00153",
+    "text": "Life, he realize, was much like a song. In the beginning there is mystery, in the end there is confirmation, but it's in the middle where all the emotion resides to make the whole thing worthwhile.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Last Song",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00154",
+    "text": "Find what you love and let it kill you.",
+    "author": "Charles Bukowski",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00155",
+    "text": "Love is an untamed force. When we try to control it, it destroys us. When we try to imprison it, it enslaves us. When we try to understand it, it leaves us feeling lost and confused.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Love & Relationships",
+      "Stoicism"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00156",
+    "text": "The man of knowledge must be able not only to love his enemies but also to hate his friends.",
+    "author": "Friedrich Nietzsche",
+    "genres": [
+      "Existentialism",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00157",
+    "text": "Look after my heart - I've left it with you.",
+    "author": "Stephenie Meyer",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eclipse",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00158",
+    "text": "Things we lose have a way of coming back to us in the end, if not always in the way we expect.",
+    "author": "J.K. Rowling",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Harry Potter and the Order of the Phoenix",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00159",
+    "text": "One cannot think well, love well, sleep well, if one has not dined well.",
+    "author": "Virginia Woolf",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "A Room of One's Own",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00160",
+    "text": "I would like to be the air that inhabits you for a moment only. I would like to be that unnoticed and that necessary.",
+    "author": "Margaret Atwood",
+    "genres": [
+      "Discipline & Consistency",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00161",
+    "text": "And then he gives me a smile that just seems so genuinely sweet with just the right touch of shyness that unexpected warmth rushes through me.",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Hunger Games",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00162",
+    "text": "He does something to me, that boy. Every time. It’s his only detriment. He steps on my heart. He makes me cry.",
+    "author": "Markus Zusak",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Book Thief",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00163",
+    "text": "I want to do with you what spring does with the cherry trees.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Twenty Love Poems and a Song of Despair",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00164",
+    "text": "Have enough courage to trust love one more time and always one more time.",
+    "author": "Maya Angelou",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00165",
+    "text": "You can't measure the mutual affection of two human beings by the number of words they exchange.",
+    "author": "Milan Kundera",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00166",
+    "text": "Sometimes it's a form of love just to talk to somebody that you have nothing in common with and still be fascinated by their presence.",
+    "author": "David Byrne",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00167",
+    "text": "How do you spell 'love'?\" - Piglet\"You don't spell it...you feel it.\" - Pooh",
+    "author": "A.A. Milne",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00168",
+    "text": "Tonight I can write the saddest linesI loved her, and sometimes she loved me too.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Twenty Love Poems and a Song of Despair",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00169",
+    "text": "Happiness [is] only real when shared",
+    "author": "Jon Krakauer",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Into the Wild",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00170",
+    "text": "A DEFINITION NOT FOUND IN THE DICTIONARY Not leaving: an act of trust and love,often deciphered by children",
+    "author": "Markus Zusak",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Book Thief",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00171",
+    "text": "One day you will kiss a man you can't breathe without, and find that breath is of little consequence.",
+    "author": "Karen Marie Moning",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Bloodfever",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00172",
+    "text": "Maybe...you'll fall in love with me all over again.\"\"Hell,\" I said, \"I love you enough now. What do you want to do? Ruin me?\"\"Yes. I want to ruin you.\"\"Good,\" I said. \"That's what I want too.",
+    "author": "Ernest Hemingway",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "A Farewell to Arms",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00173",
+    "text": "Was it hard?\" I ask.Letting go?\"Not as hard as holding on to something that wasn't real.",
+    "author": "Lisa Schroeder",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00174",
+    "text": "I'm saying that I'm a moody, insecure, narrow-minded, jealous, borderline homicidal bitch, and I want you to promise me that you're okay with that, because it's who I am, and you're what I need.",
+    "author": "Jeaniene Frost",
+    "genres": [
+      "Love & Relationships",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": "Halfway to the Grave",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00175",
+    "text": "Then I realize what it is. It's him. Something about him makes me feel like I am about to fall. Or turn to liquid. Or burst into flames.",
+    "author": "Veronica Roth",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Divergent",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00176",
+    "text": "Art and love are the same thing: It’s the process of seeing yourself in things that are not you.",
+    "author": "Chuck Klosterman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Killing Yourself to Live: 85% of a True Story",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00177",
+    "text": "Letting go doesn't mean that you don't care about someone anymore. It's just realizing that the only person you really have control over is yourself.",
+    "author": "Deborah Reber",
+    "genres": [
+      "Love & Relationships",
+      "Stoicism"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": "Chicken Soup for the Teenage Soul: 101 Stories of Life, Love and Learning",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00178",
+    "text": "As if you were on fire from within.The moon lives in the lining of your skin.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00179",
+    "text": "The beginning of love is the will to let those we love be perfectly themselves, the resolution not to twist them to fit our own image. If in loving them we do not love what they are, but only their potential likeness to ourselves, then we do not love them: we only love the reflection of ourselves we find in them",
+    "author": "Thomas Merton",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "No Man Is an Island",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00180",
+    "text": "Promise me you'll never forget me because if I thought you would, I'd never leave.",
+    "author": "A.A. Milne",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00181",
+    "text": "Anyone who falls in love is searching for the missing pieces of themselves. So anyone who's in love gets sad when they think of their lover. It's like stepping back inside a room you have fond memories of, one you haven't seen in a long time.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00182",
+    "text": "I could not tell you if I loved you the first moment I saw you, or if it was the second or third or fourth. But I remember the first moment I looked at you walking toward me and realized that somehow the rest of the world seemed to vanish when I was with you.",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Clockwork Prince",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00183",
+    "text": "I wasn't actually in love, but I felt a sort of tender curiosity.",
+    "author": "F. Scott Fitzgerald",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Great Gatsby",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00184",
+    "text": "When I am with you, we stay up all night.When you're not here, I can't go to sleep.Praise God for those two insomnias!And the difference between them.",
+    "author": "Jalaluddin Rumi",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00185",
+    "text": "I loved you like a man loves a woman he never touches, only writes to, keeps little photographs of.",
+    "author": "Charles Bukowski",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Love Is a Dog from Hell",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00186",
+    "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection",
+    "author": "Sharon Salzberg",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00187",
+    "text": "Tears shed for another person are not a sign of weakness. They are a sign of a pure heart.",
+    "author": "José N. Harris",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "MI VIDA: A Story of Faith, Hope and Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00188",
+    "text": "The saddest people I've ever met in life are the ones who don't care deeply about anything at all. Passion and satisfaction go hand in hand, and without them, any happiness is only temporary, because there's nothing to make it last.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Success & Ambition"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Dear John",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00189",
+    "text": "If conversation was the lyrics, laughter was the music, making time spent together a melody that could be replayed over and over without getting stale.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00190",
+    "text": "It is the time you have wasted for your rose that makes your rose so important.",
+    "author": "Antoine de Saint-Exupéry",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Little Prince",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00191",
+    "text": "I fell in love with him. But I don't just stay with him by default as if there's no one else available to me. I stay with him because I choose to, every day that I wake up, every day that we fight or lie to each other or disappoint each other. I choose him over and over again, and he chooses me.",
+    "author": "Veronica Roth",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Allegiant",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00192",
+    "text": "There is only one page left to write on. I will fill it with words of only one syllable. I love. I have loved. I will love.",
+    "author": "Audrey Niffenegger",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "The Time Traveler's Wife",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00193",
+    "text": "Happiness is holding someone in your arms and knowing you hold the whole world.",
+    "author": "Orhan Pamuk",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Snow",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00194",
+    "text": "Sometimes when I look at you, I feel I'm gazing at a distant star. It's dazzling, but the light is from tens of thousands of years ago.Maybe the star doesn't even exist any more. Yet sometimes that light seems more real to me than anything.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "South of the Border, West of the Sun",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00195",
+    "text": "A half-read book is a half-finished love affair.",
+    "author": "David Mitchell",
+    "genres": [
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Cloud Atlas",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00196",
+    "text": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "An Ideal Husband",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00197",
+    "text": "I like flaws. I think they make things interesting.",
+    "author": "Sarah Dessen",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Truth About Forever",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00198",
+    "text": "Someone I loved once gave me a box full of darkness. It took me years to understand that this too, was a gift.",
+    "author": "Mary Oliver",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00199",
+    "text": "I'm oxygen and he's dying to breathe.",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "Shatter Me",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00200",
+    "text": "Who, being loved, is poor?",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00201",
+    "text": "Lost love is still love. It takes a different form, that's all. You can't see their smile or bring them food or tousle their hair or move them around a dance floor. But when those senses weaken another heightens. Memory. Memory becomes your partner. You nurture it. You hold it. You dance with it.",
+    "author": "Mitch Albom",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00202",
+    "text": "I read once that the ancient Egyptians had fifty words for sand & the Eskimos had a hundred words for snow. I wish I had a thousand words for love, but all that comes to mind is the way you move against me while you sleep & there are no words for that.",
+    "author": "Brian Andreas",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "Story People: Selected Stories & Drawings of Brian Andreas",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00203",
+    "text": "Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another.",
+    "author": "Carl Sagan",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Self-Respect & Boundaries"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning",
+      "night"
+    ],
+    "source": "Cosmos",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00204",
+    "text": "I'm not sentimental--I'm as romantic as you are. The idea, you know,is that the sentimental person thinks things will last--the romanticperson has a desperate confidence that they won't.",
+    "author": "F. Scott Fitzgerald",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Dark Academia"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "This Side of Paradise",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00205",
+    "text": "I'm on Aslan's side even if there isn't any Aslan to lead it. I'm going to live as like a Narnian as I can even if there isn't any Narnia.",
+    "author": "C.S. Lewis",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Silver Chair",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00206",
+    "text": "A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved.",
+    "author": "Kurt Vonnegut Jr.",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Stoicism"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "source": "The Sirens of Titan",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00207",
+    "text": "It is easy to love people in memory the hard thing is to love them when they are there in front of you.",
+    "author": "John Updike",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "My Father's Tears and Other Stories",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00208",
+    "text": "Love can change a person the way a parent can change a baby- awkwardly, and often with a great deal of mess.",
+    "author": "Lemony Snicket",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Horseradish",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00209",
+    "text": "When I saw you I fell in love, and you smiled because you knew.",
+    "author": "Arrigo Boito",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00210",
+    "text": "You know how they say you only hurt the ones you love? Well, it works both ways.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Discipline & Consistency",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "Fight Club",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00211",
+    "text": "Be with me always - take any form - drive me mad! only do not leave me in this abyss, where I cannot find you! Oh, God! it is unutterable! I can not live without my life! I can not live without my soul!",
+    "author": "Emily Brontë",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": "Wuthering Heights",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00212",
+    "text": "I fell in love with her when we were together, then fell deeper in love with her in the years we were apart.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Dear John",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00213",
+    "text": "What she had realized was that love was that moment when your heart was about to burst.",
+    "author": "Stieg Larsson",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Girl with the Dragon Tattoo",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00214",
+    "text": "Sorrow is how we learn to love. Your heart isn't breaking. It hurts because it's getting larger. The larger it gets, the more love it holds.",
+    "author": "Rita Mae Brown",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Riding Shotgun",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00215",
+    "text": "Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing.",
+    "author": "Elie Wiesel",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00216",
+    "text": "One word frees us of all the weight and pain of life:That word is love.",
+    "author": "Sophocles",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00217",
+    "text": "Yes, I was infatuated with you: I am still. No one has ever heightened such a keen capacity of physical sensation in me. I cut you out because I couldn't stand being a passing fancy. Before I give my body, I must give my thoughts, my mind, my dreams. And you weren't having any of those.",
+    "author": "Sylvia Plath",
+    "genres": [
+      "Love & Relationships",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": "The Unabridged Journals of Sylvia Plath",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00218",
+    "text": "Respect was invented to cover the empty place where love should be.",
+    "author": "Leo Tolstoy",
+    "genres": [
+      "Love & Relationships",
+      "Self-Respect & Boundaries"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": "Anna Karenina",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00219",
+    "text": "It takes courage to love, but pain through love is the purifying fire which those who love generously know. We all know people who are so much afraid of pain that they shut themselves up like clams in a shell and, giving out nothing, receive nothing and therefore shrink until life is a mere living death.",
+    "author": "Eleanor Roosevelt",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00220",
+    "text": "I guess that’s just part of loving people: You have to give things up. Sometimes you even have to give them up.",
+    "author": "Lauren Oliver",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Delirium",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00221",
+    "text": "The more one judges, the less one loves.",
+    "author": "Honoré de Balzac",
+    "genres": [
+      "Love & Relationships",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "evening",
+      "night"
+    ],
+    "source": "Physiologie Du Mariage",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00222",
+    "text": "The heart has its reasons which reason knows not.",
+    "author": "Blaise Pascal",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00223",
+    "text": "The emotion that can break your heart is sometimes the very one that heals it...",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "At First Sight",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00224",
+    "text": "Time was passing like a hand waving from a train I wanted to be on. I hope you never have to think about anything as much as I think about you.",
+    "author": "Jonathan Safran Foer",
+    "genres": [
+      "Dark Academia",
+      "Existentialism",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00225",
+    "text": "Sometimes love means letting go when you want to hold on tighter.",
+    "author": "Melissa Marr",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Ink Exchange",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00226",
+    "text": "Holding Eleanor's hand was like holding a butterfly. Or a heartbeat. Like holding something complete, and completely alive.",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eleanor & Park",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00227",
+    "text": "Trust your heart if the seas catch fire, live by love though the stars walk backward.",
+    "author": "E.E. Cummings",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00228",
+    "text": "The love of learning, the sequestered nooks,And all the sweet serenity of books",
+    "author": "Henry Wadsworth Longfellow",
+    "genres": [
+      "Dark Academia",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00229",
+    "text": "If someone were to harm my family or a friend or somebody I love, I would eat them. I might end up in jail for 500 years, but I would eat them.",
+    "author": "Johnny Depp",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00230",
+    "text": "From childhood's hour I have not been. As others were, I have not seen. As others saw, I could not awaken. My heart to joy at the same tone. And all I loved, I loved alone.",
+    "author": "Edgar Allan Poe",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00231",
+    "text": "Come sleep with me: We won't make Love, Love will make us.",
+    "author": "Julio Cortázar",
+    "genres": [
+      "Dark Academia",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00232",
+    "text": "People have forgotten this truth,\" the fox said. \"But you mustn’t forget it. You become responsible forever for what you’ve tamed. You’re responsible for your rose.",
+    "author": "Antoine de Saint-Exupéry",
+    "genres": [
+      "Leadership",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "The Little Prince",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00233",
+    "text": "Nothing takes the taste out of peanut butter quite like unrequited love.",
+    "author": "Charles M. Schulz",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00234",
+    "text": "When someone is in your heart, they're never truly gone. They can come back to you, even at unlikely times.",
+    "author": "Mitch Albom",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "For One More Day",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00235",
+    "text": "Ever has it been that love knows not its own depth until the hour of separation.",
+    "author": "Kahlil Gibran",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00236",
+    "text": "Don't cry over someone who wouldn't cry over you.",
+    "author": "Lauren Conrad",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00237",
+    "text": "Absence diminishes small loves and increases great ones, as the wind blows out the candle and fans the bonfire.",
+    "author": "François de La Rochefoucauld",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Maxims",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00238",
+    "text": "Being with you never felt wrong. It's the one thing I did right. You're the one thing I did right.",
+    "author": "Becca Fitzpatrick",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Crescendo",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00239",
+    "text": "I wonder how many people don't get the one they want, but end up with the one they're supposed to be with.",
+    "author": "Fannie Flagg",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Fried Green Tomatoes at the Whistle Stop Cafe",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00240",
+    "text": "How do I love thee? Let me count the ways.I love thee to the depth and breadth and heightMy soul can reach",
+    "author": "Elizabeth Barrett Browning",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00241",
+    "text": "When you trip over love, it is easy to get up. But when you fall in love, it is impossible to stand again.",
+    "author": "Albert Einstein",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00242",
+    "text": "This is where it all begins. Everything starts here, today.",
+    "author": "David Nicholls",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "One Day",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00243",
+    "text": "Without you in my arms, I feel an emptiness in my soul. I find myself searching the crowds for your face - I know it's an impossibility, but I cannot help myself.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Message in a Bottle",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00244",
+    "text": "To be fully seen by somebody, then, and be loved anyhow - this is a human offering that can border on miraculous.",
+    "author": "Elizabeth Gilbert",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "Committed: A Skeptic Makes Peace with Marriage",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00245",
+    "text": "I’ve been fighting to be who I am all my life. What’s the point of being who I am, if I can’t have the person who was worth all the fighting for?",
+    "author": "Stephanie  Lennox",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "I Don't Remember You",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00246",
+    "text": "I want to be in a relationship where you telling me you love me is just a ceremonious validation of what you already show me.",
+    "author": "Steve Maraboli",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Life, the Truth, and Being Free",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00247",
+    "text": "In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art.",
+    "author": "Jalaluddin Rumi",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00248",
+    "text": "The power of a glance has been so much abused in love stories, that it has come to be disbelieved in. Few people dare now to say that two beings have fallen in love because they have looked at each other. Yet it is in this way that love begins, and in this way only.",
+    "author": "Victor Hugo",
+    "genres": [
+      "Confidence",
+      "Love & Relationships",
+      "Success & Ambition"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Les Misérables",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00249",
+    "text": "True love is usually the most inconvenient kind.",
+    "author": "Kiera Cass",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Selection",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00250",
+    "text": "Watch out for intellect,because it knows so much it knows nothingand leaves you hanging upside down,mouthing knowledge as your heartfalls out of your mouth.",
+    "author": "Anne Sexton",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Complete Poems",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00251",
+    "text": "We're staying together,\" he promised. \"You're not getting away from me. Never again.",
+    "author": "Rick Riordan",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Mark of Athena",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00252",
+    "text": "The sunlight claps the earth, and the moonbeams kiss the sea: what are all these kissings worth, if thou kiss not me?",
+    "author": "Percy Bysshe Shelley",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00253",
+    "text": "Even After All this timeThe Sun never says to the Earth,\"You owe me.\"LookWhat happensWith a love like that,It lights the whole sky.",
+    "author": "Unknown Sage",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00254",
+    "text": "To lose balance sometimes for love is part of living a balancedlife.",
+    "author": "Elizabeth Gilbert",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eat, pray, love: one woman's search for everything",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00255",
+    "text": "You know it's never fifty-fifty in a marriage. It's always seventy-thirty, or sixty-forty. Someone falls in love first. Someone puts someone else up on a pedestal. Someone works very hard to keep things rolling smoothly; someone else sails along for the ride.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Discipline & Consistency",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "Mercy",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00256",
+    "text": "If you love something set it free, but don't be surprised if it comes back with herpes.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00257",
+    "text": "My wish is that you may be loved to the point of madness.",
+    "author": "André Breton",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "What is Surrealism?: Selected Writings",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00258",
+    "text": "The things we love destroy us every time, lad. Remember that.",
+    "author": "George R.R. Martin",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "A Game of Thrones",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00259",
+    "text": "Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.",
+    "author": "Anaïs Nin",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00260",
+    "text": "I sought to hear the voice of God and climbed the topmost steeple, but God declared: \"Go down again - I dwell among the people.",
+    "author": "John Henry Newman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00261",
+    "text": "The bond forged between us was not one that could be broken by absence, distance, or time. And no matter how much more special or beautiful or brilliant or perfect than me he might be, he was as irreversibly altered as I was. As I would always belong to him, so would he always be mine.",
+    "author": "Stephenie Meyer",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "New Moon",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00262",
+    "text": "If we have no peace, it is because we have forgotten that we belong to each other.",
+    "author": "Mother Teresa",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00263",
+    "text": "sometimes you don't need a goal in life, you don't need to know the big picture. you just need to know what you're going to do next!",
+    "author": "Sophie Kinsella",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Undomestic Goddess",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00264",
+    "text": "We are who we are, be­cause of those we choose to love and be­cause of those who love us.",
+    "author": "Kate Mosse",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Winter Ghosts",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00265",
+    "text": "I won't ever leave you, even though you're always leaving me.",
+    "author": "Audrey Niffenegger",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Time Traveler's Wife",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00266",
+    "text": "This is what we call love. When you are loved, you can do anything in creation. When you are loved, there's no need at all to understand what's happening, because everything happens within you.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Alchemist",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00267",
+    "text": "I love you as certain dark things are loved, secretly, between the shadow and the soul.",
+    "author": "Stephanie Perkins",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Anna and the French Kiss",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00268",
+    "text": "The only calibration that counts is how much heart people invest, how much they ignore their fears of being hurt or caught out or humiliated. And the only thing people regret is that they didn't live boldly enough, that they didn't invest enough heart, didn't love enough. Nothing else really counts at all.",
+    "author": "Ted Hughes",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Letters of Ted Hughes",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00269",
+    "text": "We are not trapped or locked up in these bones. No, no. We are free to change. And love changes us. And if we can love one another, we can break open the sky.",
+    "author": "Walter Mosley",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Blue Light",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00270",
+    "text": "Sometimes when I'm alone, I take the pearl from where it lives in my pocket and try to remember the boy with the bread, the strong arms that warded off nightmares on the train, the kisses in the arena.",
+    "author": "Suzanne Collins",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Mockingjay",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00271",
+    "text": "Ok. You fuck me, then snub me. You love me, you hate me. You show me a sensitive side, then you turn into a total asshole. Is this a pretty accurate description of our relationship.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Fight Club",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00272",
+    "text": "You have to kiss a lot of frogs before you find your prince",
+    "author": "E.L. James",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Fifty Shades of Grey",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00273",
+    "text": "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all.",
+    "author": "Rita Mae Brown",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00274",
+    "text": "For my part, I prefer my heart to be broken. It is so lovely, dawn-kaleidoscopic within the crack.",
+    "author": "D.H. Lawrence",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00275",
+    "text": "The world was collapsing, and the only thing that really mattered to me was that she was alive.",
+    "author": "Rick Riordan",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Last Olympian",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00276",
+    "text": "When I look in the mirror, I know I’m looking at someone who isn’t sure she deserves to be loved at all.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Dear John",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00277",
+    "text": "I was always hungry for love. Just once, I wanted to know what it was like to get my fill of it -- to be fed so much love I couldn't take any more. Just once.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Norwegian Wood",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00278",
+    "text": "The course of true love never did run smooth.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "A Midsummer Night's Dream",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00279",
+    "text": "Romance is the glamour which turns the dust of everyday life into a golden haze.",
+    "author": "Elinor Glyn",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00280",
+    "text": "If there is no love in the world, we will make a new world, and we will give it walls, and we will furnish it with soft, red interiors, from the inside out, and give it a knocker that resonates like a diamond falling to a jeweller's felt so that we should never hear it. Love me, because love doesn't exist, and I have tried everything that does.",
+    "author": "Jonathan Safran Foer",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Everything Is Illuminated",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00281",
+    "text": "In a perfect world, you could fuck people without giving them a piece of your heart. And every glittering kiss and every touch of flesh is another shard of heart you’ll never see again.",
+    "author": "Neil Gaiman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Fragile Things: Short Fictions and Wonders",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00282",
+    "text": "The human heart is a strange vessel. Love and hatred can exist side by side.",
+    "author": "Scott Westerfeld",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00283",
+    "text": "For where all love is, the speaking is unnecessary",
+    "author": "Diana Gabaldon",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Outlander",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00284",
+    "text": "Someday you're gonna look back on this moment of your life as such a sweet time of grieving. You'll see that you were in mourning and your heart was broken, but your life was changing...",
+    "author": "Elizabeth Gilbert",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00285",
+    "text": "When we meet someone and fall in love, we have a sense that the whole universe is on our side. And yet if something goes wrong, there is nothing left! How is it possible for the beauty that was there only minutes before to vanish so quickly? Life moves very fast. It rushes from heaven to hell in a matter of seconds.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eleven Minutes",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00286",
+    "text": "Spending time with you showed me what I’ve been missing in my life.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Choice",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00287",
+    "text": "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it’s impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them.... I destroy them.",
+    "author": "Orson Scott Card",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Ender's Game",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00288",
+    "text": "sex is the consolation you have when you can't have love",
+    "author": "Gabriel García Márquez",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00289",
+    "text": "It is possible to be in love with you just because of who you are.",
+    "author": "Maggie Stiefvater",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Shiver",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00290",
+    "text": "The music in his laughter had a way of rounding off the missing notes in her soul.",
+    "author": "Gloria Naylor",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Linden Hills",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00291",
+    "text": "If he loved with all the powers of his puny being, he couldn't love as much in eighty years as I could in a day.",
+    "author": "Emily Brontë",
+    "genres": [
+      "Confidence",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": "Wuthering Heights",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00292",
+    "text": "Even more, I had never meant to love him. One thing I truly knew - knew it in the pit of my stomach, in the center of my bones, knew it from the crown of my head to the soles of my feet, knew it deep in my empty chest - was how love gave someone the power to break you",
+    "author": "Stephenie Meyer",
+    "genres": [
+      "Confidence",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": "Twilight",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00293",
+    "text": "I bet you could sometimes find all the mysteries of the universe in someone's hand.",
+    "author": "Benjamin Alire Sáenz",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": "Aristotle and Dante Discover the Secrets of the Universe",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00294",
+    "text": "More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.",
+    "author": "Roy T. Bennett",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Light in the Heart",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00295",
+    "text": "Each of us is born with a box of matches inside us but we can't strike them all by ourselves",
+    "author": "Laura Esquivel",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Like Water for Chocolate",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00296",
+    "text": "Yet each man kills the thing he lovesBy each let this be heardSome do it with a bitter lookSome with a flattering wordThe coward does it with a kissThe brave man with a sword",
+    "author": "Oscar Wilde",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Dark Academia"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Ballad Of Reading Gaol",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00297",
+    "text": "I know that's what people say-- you'll get over it. I'd say it, too. But I know it's not true. Oh, youll be happy again, never fear. But you won't forget. Every time you fall in love it will be because something in the man reminds you of him.",
+    "author": "Betty  Smith",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "A Tree Grows in Brooklyn",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00298",
+    "text": "Love is a decision, it is a judgment, it is a promise. If love were only a feeling, there would be no basis for the promise to love each other forever. A feeling comes and it may go. How can I judge that it will stay forever, when my act does not involve judgment and decision.",
+    "author": "Erich Fromm",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "The Art of Loving",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00299",
+    "text": "I almost wish we were butterflies and liv'd but three summer days - three such days with you I could fill with more delight than fifty common years could ever contain.",
+    "author": "John Keats",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Bright Star: Love Letters and Poems of John Keats to Fanny Brawne",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00300",
+    "text": "I'd learned that some things are best kept secret.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Dear John",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00301",
+    "text": "Don't waste your love on somebody, who doesn't value it.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Romeo and Juliet",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00302",
+    "text": "And next time you're planning to injure yourself to get me attention, just remember that a little sweet talk works wonders.",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Discipline & Consistency",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "City of Bones",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00303",
+    "text": "Love is how you stay alive, even after you are gone.",
+    "author": "Mitch Albom",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00304",
+    "text": "If only she could be so oblivious again, to feel such love without knowing it, mistaking it for laughter.",
+    "author": "Markus Zusak",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Book Thief",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00305",
+    "text": "I am not an angel,' I asserted; 'and I will not be one till I die: I will be myself. Mr. Rochester, you must neither expect nor exact anything celestial of me - for you will not get it, any more than I shall get it of you: which I do not at all anticipate.",
+    "author": "Charlotte Brontë",
+    "genres": [
+      "Confidence",
+      "Existentialism",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Jane Eyre",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00306",
+    "text": "love, I've come to understand is more than three words mumbled before bedtime.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00307",
+    "text": "It's not how much we give but how much love we put into giving.",
+    "author": "Mother Teresa",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00308",
+    "text": "The highest function of love is that it makes the loved one a unique and irreplaceable being.",
+    "author": "Tom Robbins",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "Jitterbug Perfume",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00309",
+    "text": "I know enough to know that no woman should ever marry a man who hated his mother.",
+    "author": "Martha Gellhorn",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Selected Letters",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00310",
+    "text": "We are told that people stay in love because of chemistry, or because they remain intrigued with each other, because of many kindnesses, because of luck. But part of it has got to be forgiveness and gratefulness.",
+    "author": "Ellen Goodman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00311",
+    "text": "And what would humans be without love?\"RARE, said Death.",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Sourcery",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00312",
+    "text": "I have feelings too. I am still human. All I want is to be loved, for myself and for my talent.",
+    "author": "Marilyn Monroe",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00313",
+    "text": "Afterward, I had the last laugh. I made an air bubble at the bottom of the lake. Our friends kept waiting for us to come up, but hey-when you are the son of Poseidon, you don't have to hurry. And it was pretty much the best underwater kiss of all time.",
+    "author": "Rick Riordan",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00314",
+    "text": "Love is not the absence of logicbut logic examined and recalculatedheated and curved to fitinside the contours of the heart",
+    "author": "Tammara Webber",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "Easy",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00315",
+    "text": "True love is not so much a matter of romance as it is a matter of anxious concern for the well-being of one's companion.",
+    "author": "Gordon B. Hinckley",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Stand a Little Taller",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00316",
+    "text": "Hearts are breakable,\" Isabelle said. \"And I think even when you heal, you're never what you were before\".",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "City of Fallen Angels",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00317",
+    "text": "Just because you're beautiful and perfect, it's made you conceited.",
+    "author": "William Goldman",
+    "genres": [
+      "Creativity",
+      "Existentialism",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Princess Bride",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00318",
+    "text": "Sometimes God allows what he hates to accomplish what he loves.",
+    "author": "Joni Eareckson Tada",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The God I Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00319",
+    "text": "You are the one girl that made me risk eveything for a future worth having.",
+    "author": "Simone Elkeles",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Perfect Chemistry",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00320",
+    "text": "By the time you swear you're his,Shivering and sighing.And he vows his passion is,Infinite, undying.Lady make note of this --One of you is lying.",
+    "author": "Dorothy Parker",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00321",
+    "text": "Anxiety is love's greatest killer. It makes others feel as you might when a drowning man holds on to you. You want to save him, but you know he will strangle you with his panic.",
+    "author": "Anaïs Nin",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00322",
+    "text": "I'll fight it. I'll fight it for you. Don't you worry about me, Hazel Grace. I'm okay. I'll find a way to hang around and annoy you for a long time.",
+    "author": "John Green",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Fault in Our Stars",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00323",
+    "text": "That's what people do who love you. They put their arms around you and love you when you're not so lovable.",
+    "author": "Deb Caletti",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00324",
+    "text": "Let yourself be drawn by the stronger pull of that which you truly love.",
+    "author": "Jalaluddin Rumi",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00325",
+    "text": "The heart is the toughest part of the body. Tenderness is in the hands.",
+    "author": "Carolyn Forché",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Country Between Us",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00326",
+    "text": "Good night, good night! parting is such sweet sorrow, That I shall say good night till it be morrow.",
+    "author": "William Shakespeare",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Romeo and Juliet",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00327",
+    "text": "She was my dream. She made me who I am, and holding her in my arms was more natural to me than my own heartbeat. I think about her all the time. Even now, when I'm sitting here, I think about her. There could never have been another.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00328",
+    "text": "The soul is healed by being with children.",
+    "author": "Fyodor Dostoyevsky",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00329",
+    "text": "Love has nothing to do with what you are expecting to get - only with what you are expecting to give - which is everything",
+    "author": "Katharine Hepburn",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Me: Stories of My Life",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00330",
+    "text": "I wondered what happened when you offered yourself to someone, and they opened you, only to discover you were not the gift they expected and they had to smile and nod and say thank you all the same.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "My Sister's Keeper",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00331",
+    "text": "When it's gone, you'll know what a gift love was. You'll suffer like this. So go back and fight to keep it.",
+    "author": "Ian McEwan",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Enduring Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00332",
+    "text": "Romance is thinking about your significant other, when you are supposed to be thinking about something else.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00333",
+    "text": "If you're a bird... I'm a bird...",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00334",
+    "text": "I told you. You don't love someone because of their looks or their clothes or their car. You love them because they sing a song only your heart can understand.",
+    "author": "L.J. Smith",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00335",
+    "text": "True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked.",
+    "author": "Erich Segal",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00336",
+    "text": "The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day.",
+    "author": "David Foster Wallace",
+    "genres": [
+      "Discipline & Consistency",
+      "Existentialism",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "late_night"
+    ],
+    "source": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00337",
+    "text": "If you can love someone with your whole heart, even one person, then there's salvation in life. Even if you can't get together with that person.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "1Q84",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00338",
+    "text": "Do you think, because I am poor, obscure, plain and little, I am soulless and heartless? You think wrong! - I have as much soul as you, - and full as much heart! And if God had gifted me with some beauty and much wealth, I should have made it as hard for you to leave me, as it is now for me to leave you!",
+    "author": "Charlotte Brontë",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Jane Eyre",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00339",
+    "text": "In youth, it was a way I had,To do my best to please.And change, with every passing ladTo suit his theories.But now I know the things I knowAnd do the things I do,And if you do not like me so,To hell, my love, with you.",
+    "author": "Dorothy Parker",
+    "genres": [
+      "Confidence",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": "The Complete Poems of Dorothy Parker",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00340",
+    "text": "You can search throughout the entire universe for someone who is more deserving of your love and affection than you are yourself, and that person is not to be found anywhere. You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+    "author": "Sharon Salzberg",
+    "genres": [
+      "Confidence",
+      "Creativity",
+      "Life Lessons"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00341",
+    "text": "Love is the extremely difficult realization that something other than oneself is real.",
+    "author": "Iris Murdoch",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Existentialists and Mystics Writings on Philosophy and Literature",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00342",
+    "text": "I belong to my beloved, and my beloved is mine.",
+    "author": "Jamie McGuire",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Beautiful Disaster",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00343",
+    "text": "Someday you'll find someone special again. People who've been in love once usually do. It's in their nature.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Message in a Bottle",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00344",
+    "text": "Yours is the light by which my spirit's born: - you are my sun, my moon, and all my stars.",
+    "author": "E.E. Cummings",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00345",
+    "text": "It's bullshit to think of friendship and romance as being different. They're not. They're just variations of the same love. Variations of the same desire to be close.",
+    "author": "Rachel Cohn",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Naomi and Ely's No Kiss List",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00346",
+    "text": "If my love were an ocean,there would be no more land.If my love were a desert,you would see only sand.If my love were a star-late at night, only light.And if my love could grow wings,I'd be soaring in flight.",
+    "author": "Jay Asher",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Thirteen Reasons Why",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00347",
+    "text": "Love, it never dies. It never goes away, it never fades, so long as you hang on to it. Love can make you immortal",
+    "author": "Gayle Forman",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "If I Stay",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00348",
+    "text": "It's hard being left behind. (...) It's hard to be the one who stays.",
+    "author": "Audrey Niffenegger",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Time Traveler's Wife",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00349",
+    "text": "Making love with a woman and sleeping with a woman are two separate passions, not merely different but opposite. Love does not make itself felt in the desire for copulation (a desire that extends to an infinite number of women) but in the desire for shared sleep (a desire limited to one woman).",
+    "author": "Milan Kundera",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Unbearable Lightness of Being",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00350",
+    "text": "Why are old lovers able to become friends? Two reasons. They never truly loved each other, or they love each other still.",
+    "author": "Whitney Otto",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "How to Make an American Quilt",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00351",
+    "text": "and he suddenly knew that if she killed herself, he would die. Maybe not immediately, maybe not with the same blinding rush of pain, but it would happen. You couldn't live for very long without a heart.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00352",
+    "text": "She wanted something else, something different, something more. Passion and romance, perhaps, or maybe quiet conversations in candlelit rooms, or perhaps something as simple as not being second.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships",
+      "Minimalism"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00353",
+    "text": "Moments, when lost, can't be found again. They're just gone.",
+    "author": "Jenny Han",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Summer I Turned Pretty",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00354",
+    "text": "here she is, all mine, trying her best to give me all she can. How could I ever hurt her? But I didn’t understand then. That I could hurt somebody so badly she would never recover. That a person can, just by living, damage another human being beyond repair.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "South of the Border, West of the Sun",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00355",
+    "text": "I like not only to be loved, but also to be told that I am loved. I am not sure that you are of the same mind. But the realm of silence is large enough beyond the grave. This is the world of light and speech, and I shall take leave to tell you that you are very dear.",
+    "author": "George Eliot",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness",
+      "Psychology"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00356",
+    "text": "What are the chances you’d ever meet someone like that? he wondered. Someone you could love forever, someone who would forever love you back? And what did you do when that person was born half a world away? The math seemed impossible.",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night"
+    ],
+    "source": "Eleanor & Park",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00357",
+    "text": "I wonder if fears ever really go away, or if they just lose their power over us.",
+    "author": "Veronica Roth",
+    "genres": [
+      "Confidence",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": "Allegiant",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00358",
+    "text": "In desperate love, we always invent the characters of our partners, demanding they be what we need of them, and then feeling devastated when they refuse to perform the role we created in the first place.",
+    "author": "Elizabeth Gilbert",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Eat, Pray, Love",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00359",
+    "text": "Trust no friend without faults, and love a woman, but no angel.",
+    "author": "Doris Lessing",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00360",
+    "text": "There is always something left to love.",
+    "author": "Gabriel García Márquez",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "One Hundred Years of Solitude",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00361",
+    "text": "We must love one another or die",
+    "author": "W.H. Auden",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00362",
+    "text": "You say you love rain, but you use an umbrella to walk under it. You say you love sun, but you seek shelter when it is shining. You say you love wind, but when it comes you close your windows. So that's why I'm scared when you say you love me.",
+    "author": "Bob Marley",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00363",
+    "text": "If a thing loves, it is infinite.",
+    "author": "William Blake",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00364",
+    "text": "I'm lonely. Why do you think I had to learn to act so independent? I also get mad too quickly, and I hog the covers, and my second toe is longer than my big one. My hair has it's own zip code. Plus, I get certifiably crazy when I've got PMS. You don't love someone because they're perfect. You love them in spite of the fact that they're not.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "My Sister's Keeper",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00365",
+    "text": "Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.",
+    "author": "Roy T. Bennett",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Light in the Heart",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00366",
+    "text": "Love is a better master than duty.",
+    "author": "Albert Einstein",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00367",
+    "text": "It doesn't matter who you are or what you look like, so long as somebody loves you.",
+    "author": "Roald Dahl",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Witches",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00368",
+    "text": "You are like nobody since I love you.",
+    "author": "Pablo Neruda",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00369",
+    "text": "After all this time?\"\"Always...",
+    "author": "J.K. Rowling",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "Harry Potter and the Deathly Hallows",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00370",
+    "text": "There is nothing more truly artistic than to love people.",
+    "author": "Vincent van Gogh",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00371",
+    "text": "In love, no question is ever preposterous.",
+    "author": "André Brink",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Before I Forget",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00372",
+    "text": "Love, n. A temporary insanity curable by marriage.",
+    "author": "Ambrose Bierce",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": "The Unabridged Devil's Dictionary",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00373",
+    "text": "No woman wants to be in submission to a man who isn't in submission to God!",
+    "author": "T.D. Jakes",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00374",
+    "text": "I love mankind, he said, \"but I find to my amazement that the more I love mankind as a whole, the less I love man in particular.",
+    "author": "Fyodor Dostoyevsky",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Brothers Karamazov",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00375",
+    "text": "You only need one man to love you. But him to love you free like a wildfire, crazy like the moon, always like tomorrow, sudden like an inhale and overcoming like the tides. Only one man and all of this.",
+    "author": "C. JoyBell C.",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00376",
+    "text": "Despite your best efforts, people are going to be hurt when it's time for them to be hurt.",
+    "author": "Haruki Murakami",
+    "genres": [
+      "Discipline & Consistency",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "Norwegian Wood",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00377",
+    "text": "The greatest happiness of life is the conviction that we are loved -- loved for ourselves, or rather, loved in spite of ourselves.",
+    "author": "Victor Hugo",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00378",
+    "text": "Your mother died to save you. If there is one thing Voldemort cannot understand, it is love. Love as powerful as your mother's for you leaves it's own mark. To have been loved so deeply, even though the person who loved us is gone, will give us some protection forever.",
+    "author": "J.K. Rowling",
+    "genres": [
+      "Confidence",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Harry Potter and the Sorcerer's Stone",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00379",
+    "text": "No matter how much you think you love somebody, you'll step back when the pool of their blood edges up too close.",
+    "author": "Chuck Palahniuk",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Invisible Monsters",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00380",
+    "text": "Of course I’ll hurt you. Of course you’ll hurt me. Of course we will hurt each other. But this is the very condition of existence. To become spring, means accepting the risk of winter. To become presence, means accepting the risk of absence.",
+    "author": "Antoine de Saint-Exupéry",
+    "genres": [
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Manon, Ballerina",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00381",
+    "text": "Happily ever after, or even just together ever after, is not cheesy,” Wren said. “It’s the noblest, like, the most courageous thing two people can shoot for.",
+    "author": "Rainbow Rowell",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "Fangirl",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00382",
+    "text": "What greater gift than the love of a cat.",
+    "author": "Charles Dickens",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00383",
+    "text": "We are all worthy of one another.",
+    "author": "Edward P. Jones",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Known World",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00384",
+    "text": "Love is an abstract noun, something nebulous. And yet love turns out to be the only part of us that is solid, as the world turns upside down and the screen goes black.",
+    "author": "Martin Amis",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Second Plane: 14 Responses to September 11",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00385",
+    "text": "If someone thinks that peace and love are just a cliche that must have been left behind in the 60s, that's a problem. Peace and love are eternal.",
+    "author": "John Lennon",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00386",
+    "text": "Love cannot be reduced to a catalogue of reasons why, and a catalogue of reasons cannot be put together into love.",
+    "author": "Eleanor Catton",
+    "genres": [
+      "Love & Relationships",
+      "Philosophy"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "night"
+    ],
+    "source": "The Luminaries",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00387",
+    "text": "The fate of your heart is your choice and no one else gets a vote",
+    "author": "Sarah Dessen",
+    "genres": [
+      "Creativity",
+      "Love & Relationships",
+      "Stoicism"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning",
+      "night"
+    ],
+    "source": "This Lullaby",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00388",
+    "text": "The damage was permanent; there would always be scars. But even the angriest scars faded over time until it was difficult to see them written on the skin at all, and the only thing that remained was the memory of how painful it had been.",
+    "author": "Jodi Picoult",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00389",
+    "text": "If there's a thing I've learned in my life it's to not be afraid of the responsibility that comes with caring for other people. What we do for love: those things endure. Even if the people you do them for don't",
+    "author": "Cassandra Clare",
+    "genres": [
+      "Leadership",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00390",
+    "text": "He stared at her, knowing with certainty that he was falling in love. He pulled her close and kissed her beneath a blanket of stars, wondering how on earth he'd been lucky enough to find her.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Creativity",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Last Song",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00391",
+    "text": "The scariest thing about distance is that you don’t know whether they’ll miss you or forget you.",
+    "author": "Nicholas Sparks",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "The Notebook",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00392",
+    "text": "To say that one waits a lifetime for his soulmate to come around is a paradox. People eventually get sick of waiting, take a chance on someone, and by the art of commitment become soulmates, which takes a lifetime to perfect.",
+    "author": "Criss Jami",
+    "genres": [
+      "Creativity",
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "Venus in Arms",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00393",
+    "text": "Lovers alone wear sunlight.",
+    "author": "E.E. Cummings",
+    "genres": [
+      "Creativity",
+      "Dark Academia",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00394",
+    "text": "Oh no. Don't smile. You'll kill me. I stop breathing when you smile.",
+    "author": "Tessa Dare",
+    "genres": [
+      "Love & Relationships",
+      "Mindfulness"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening"
+    ],
+    "source": "A Lady of Persuasion",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00395",
+    "text": "Because, if you could love someone, and keep loving them, without being loved back . . . then that love had to be real. It hurt too much to be anything else.",
+    "author": "Sarah Cross",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Kill Me Softly",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00396",
+    "text": "The great tragedy of life is not that men perish, but that they cease to love.",
+    "author": "W. Somerset Maugham",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00397",
+    "text": "Do I love you? My God, if your love were a grain of sand, mine would be a universe of beaches.",
+    "author": "William Goldman",
+    "genres": [
+      "Love & Relationships",
+      "Motivation",
+      "Spirituality"
+    ],
+    "timeCategories": [
+      "early_morning",
+      "evening",
+      "late_night",
+      "morning"
+    ],
+    "source": "The Princess Bride",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00398",
+    "text": "In real life, love has to be possible. Even if it is not returned right away, love can only survive when the hope exists that you will be able to win over the person you desire.",
+    "author": "Paulo Coelho",
+    "genres": [
+      "Life Lessons",
+      "Love & Relationships",
+      "Motivation"
+    ],
+    "timeCategories": [
+      "afternoon",
+      "early_morning",
+      "evening",
+      "morning"
+    ],
+    "source": "By the River Piedra I Sat Down and Wept",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00399",
+    "text": "I think it is all a matter of love the more you love a memory the stronger and stranger it becomes",
+    "author": "Vladimir Nabokov",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": null,
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "hf-00400",
+    "text": "There's a difference between really loving someone and loving the idea of her.",
+    "author": "Gillian Flynn",
+    "genres": [
+      "Love & Relationships"
+    ],
+    "timeCategories": [
+      "evening"
+    ],
+    "source": "Gone Girl",
+    "language": "en",
+    "isVerified": true,
+    "createdAt": "2026-03-01T00:00:00Z"
+  }
+]

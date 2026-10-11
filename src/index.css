@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Lora', 'Playfair Display', Georgia, serif;
+    --font-editorial: 'Playfair Display', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+    --font-cinzel: 'Cinzel', serif;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+  }
+
+  body {
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom typography classes */
+.font-serif-quote {
+  font-family: var(--font-serif);
+}
+
+.font-editorial {
+  font-family: var(--font-editorial);
+}
+
+.font-cinzel {
+  font-family: var(--font-cinzel);
+}
+
+.font-mono-time {
+  font-family: var(--font-mono);
+  font-feature-settings: "tnum" 1, "cv01" 1;
+}
+
+/* Custom subtle ambient glow */
+.ambient-early-morning {
+  background: radial-gradient(circle at 50% 0%, rgba(251, 146, 60, 0.08) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-early-morning {
+  background: radial-gradient(circle at 50% 0%, rgba(194, 65, 12, 0.12) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+.ambient-morning {
+  background: radial-gradient(circle at 50% 0%, rgba(234, 179, 8, 0.09) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-morning {
+  background: radial-gradient(circle at 50% 0%, rgba(161, 98, 7, 0.12) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+.ambient-afternoon {
+  background: radial-gradient(circle at 50% 0%, rgba(115, 123, 91, 0.09) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-afternoon {
+  background: radial-gradient(circle at 50% 0%, rgba(143, 151, 121, 0.12) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+.ambient-evening {
+  background: radial-gradient(circle at 50% 0%, rgba(168, 85, 247, 0.08) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-evening {
+  background: radial-gradient(circle at 50% 0%, rgba(126, 34, 206, 0.12) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+.ambient-night {
+  background: radial-gradient(circle at 50% 0%, rgba(99, 102, 241, 0.08) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-night {
+  background: radial-gradient(circle at 50% 0%, rgba(67, 56, 202, 0.14) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+.ambient-late-night {
+  background: radial-gradient(circle at 50% 0%, rgba(56, 189, 248, 0.06) 0%, rgba(247, 245, 240, 0) 70%);
+}
+.dark .ambient-late-night {
+  background: radial-gradient(circle at 50% 0%, rgba(14, 116, 144, 0.14) 0%, rgba(21, 21, 21, 0) 70%);
+}
+
+/* Subtle editorial paper texture & borders */
+.editorial-border {
+  border-color: #E8E4DC;
+}
+.dark .editorial-border {
+  border-color: #2A2A2A;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(115, 123, 91, 0.25);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(115, 123, 91, 0.45);
+}
