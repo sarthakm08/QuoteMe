@@ -300,16 +300,16 @@ export const ShabbyChatModal: React.FC<ShabbyChatModalProps> = ({
                 Gemini API Configuration
               </span>
               <span className="text-[10px] text-amber-700 dark:text-amber-300 font-mono-time">
-                {shabbyService.hasCustomApiKey() ? 'Custom Key' : 'Default Pre-configured'}
+                {shabbyService.hasCustomApiKey() ? 'Custom Personal Key' : 'Server Environment Key'}
               </span>
             </div>
             <p className="text-[11px] text-[#666666] dark:text-[#AAAAAA] mb-2">
-              ChronoQuotes is currently using the provided Google AI Studio Gemini API key. You may also specify your own:
+              ChronoQuotes uses the server-side GEMINI_API_KEY environment variable by default. You can also specify an optional personal Gemini API key here to override it:
             </p>
             <div className="flex gap-2">
               <input
                 type="password"
-                placeholder="AQ.Ab8... (Google Gemini API Key)"
+                placeholder="Personal Gemini API Key (optional)"
                 value={customKeyInput}
                 onChange={(e) => setCustomKeyInput(e.target.value)}
                 className="flex-1 px-3 py-1.5 text-xs rounded-xl border border-[#E8E4DC] dark:border-[#333] bg-white dark:bg-[#1E1E1E] text-[#171717] dark:text-[#F4F1EA]"
@@ -320,6 +320,19 @@ export const ShabbyChatModal: React.FC<ShabbyChatModalProps> = ({
               >
                 Save
               </button>
+              {shabbyService.hasCustomApiKey() && (
+                <button
+                  onClick={() => {
+                    setCustomKeyInput('');
+                    shabbyService.setCustomApiKey('');
+                    setShowSettings(false);
+                    onShowToast('Reset to server default Gemini key', 'info');
+                  }}
+                  className="px-3 py-1.5 rounded-xl bg-black/10 dark:bg-white/10 text-[#555] dark:text-[#AAA] text-xs font-medium cursor-pointer hover:bg-black/15"
+                >
+                  Clear
+                </button>
+              )}
             </div>
           </div>
         )}

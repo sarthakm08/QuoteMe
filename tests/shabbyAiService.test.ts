@@ -53,17 +53,11 @@ describe('Shabby AI Service', () => {
     expect(shabbyService.hasCustomApiKey()).toBe(false);
   });
 
-  it('formats quote explanation prompts and parses responses properly', async () => {
+  it('calls /api/chat and parses response properly for quote explanation', async () => {
     const mockFetch = vi.fn().mockResolvedValue({
       ok: true,
       json: async () => ({
-        candidates: [
-          {
-            content: {
-              parts: [{ text: 'This quote by Marcus Aurelius inspires perseverance.' }],
-            },
-          },
-        ],
+        text: 'This quote by Marcus Aurelius inspires perseverance.',
       }),
     });
     vi.stubGlobal('fetch', mockFetch);
@@ -79,20 +73,44 @@ describe('Shabby AI Service', () => {
 
     const explanation = await shabbyService.explainQuote(testQuote);
     expect(explanation).toBe('This quote by Marcus Aurelius inspires perseverance.');
-    expect(mockFetch).toHaveBeenCalled();
+    expect(mockFetch).toHaveBeenCalledWith(
+      '/api/chat',
+      expect.objectContaining({
+        method: 'POST',
+        headers: expect.objectContaining({
+          'Content-Type': 'application/json',
+        }),
+      })
+    );
+  });
+
+  it('includes custom API key in x-gemini-api-key header when set', async () => {
+    const mockFetch = vi.fn().mockResolvedValue({
+      ok: true,
+      json: async () => ({
+        text: 'Response using custom key',
+      }),
+    });
+    vi.stubGlobal('fetch', mockFetch);
+
+    shabbyService.setCustomApiKey('custom-user-secret');
+    await shabbyService.sendMessage('Hello', []);
+
+    expect(mockFetch).toHaveBeenCalledWith(
+      '/api/chat',
+      expect.objectContaining({
+        headers: expect.objectContaining({
+          'x-gemini-api-key': 'custom-user-secret',
+        }),
+      })
+    );
   });
 
   it('formats translation prompts into local language properly', async () => {
     const mockFetch = vi.fn().mockResolvedValue({
       ok: true,
       json: async () => ({
-        candidates: [
-          {
-            content: {
-              parts: [{ text: 'अनुवाद: बहस करने में समय बर्बाद न करें कि एक अच्छा व्यक्ति कैसा होना चाहिए। एक बनें।' }],
-            },
-          },
-        ],
+        text: 'अनुवाद: बहस करने में समय बर्बाद न करें कि एक अच्छा व्यक्ति कैसा होना चाहिए। एक बनें।',
       }),
     });
     vi.stubGlobal('fetch', mockFetch);
@@ -109,5 +127,20 @@ describe('Shabby AI Service', () => {
     const translation = await shabbyService.translateQuote(testQuote, 'Hindi (हिन्दी)');
     expect(translation).toContain('अनुवाद:');
     expect(mockFetch).toHaveBeenCalled();
+  });
+
+  it('handles server errors gracefully', async () => {
+    const mockFetch = vi.fn().mockResolvedValue({
+      ok: false,
+      status: 400,
+      json: async () => ({
+        error: 'No Gemini API Key found.',
+      }),
+    });
+    vi.stubGlobal('fetch', mockFetch);
+
+    await expect(shabbyService.sendMessage('Hello', [])).rejects.toThrow(
+      'No Gemini API Key found.'
+    );
   });
 });

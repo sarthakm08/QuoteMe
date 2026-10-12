@@ -36,31 +36,6 @@ export const SUPPORTED_LANGUAGES: SupportedLanguage[] = [
   { code: 'ja', name: 'Japanese', nativeName: '日本語' },
 ];
 
-const DEFAULT_API_KEY =
-  (import.meta.env.VITE_GEMINI_API_KEY as string | undefined) || '';
-
-const FALLBACK_MODELS = [
-  'gemini-3.5-flash-lite',
-  'gemini-3.5-flash',
-  'gemini-3.8-flash',
-];
-
-const SYSTEM_INSTRUCTION = `You are "Shabby", the personal literary philosopher and companion of ChronoQuotes.
-Your core traits:
-1. Warm, deeply insightful, poetic, articulate, and encouraging.
-2. An expert in timeless philosophy (Stoicism, Eastern thought, Vedanta, Existentialism, Taoism), literature, psychology, history, and personal growth.
-3. When explaining a quote:
-   - Provide its deeper philosophical and psychological meaning.
-   - Clarify the context/background of the author or book if known.
-   - Offer 1-2 practical reflections or everyday takeaways on how the reader can live or apply this wisdom.
-4. When translating:
-   - Provide an authentic, natural, and culturally resonant translation in the requested language (e.g., Hindi, Hinglish, Bengali, Marathi, Tamil, Telugu, Gujarati, Urdu, etc.).
-   - If translated into Hindi or other Indian languages, provide both the script and a brief explanation in conversational tone.
-   - If translated into Hinglish, use natural, expressive conversational Hindi written in English script.
-5. Formatting:
-   - Keep answers well-structured with clean spacing, bullet points, and gentle highlights.
-   - Avoid sterile or robotic disclaimers. Speak like a wise, compassionate friend sitting across a cup of tea.`;
-
 class ShabbyAiService {
   private getStorage(): Storage | null {
     if (typeof window !== 'undefined' && window.localStorage) {
@@ -70,17 +45,6 @@ class ShabbyAiService {
       return localStorage;
     }
     return null;
-  }
-
-  private getApiKey(): string {
-    const storage = this.getStorage();
-    if (storage) {
-      const customKey = storage.getItem('shabby_custom_api_key');
-      if (customKey?.trim()) {
-        return customKey.trim();
-      }
-    }
-    return DEFAULT_API_KEY;
   }
 
   public setCustomApiKey(key: string) {
@@ -95,13 +59,20 @@ class ShabbyAiService {
   }
 
   public getActiveApiKey(): string {
-    return this.getApiKey();
+    const storage = this.getStorage();
+    if (storage) {
+      const customKey = storage.getItem('shabby_custom_api_key');
+      if (customKey?.trim()) {
+        return customKey.trim();
+      }
+    }
+    return '';
   }
 
   public hasCustomApiKey(): boolean {
     const storage = this.getStorage();
     if (storage) {
-      return Boolean(storage.getItem('shabby_custom_api_key'));
+      return Boolean(storage.getItem('shabby_custom_api_key')?.trim());
     }
     return false;
   }
@@ -111,104 +82,49 @@ class ShabbyAiService {
     history: ChatMessage[] = [],
     activeQuote?: Quote
   ): Promise<string> {
-    const apiKey = this.getApiKey();
-    if (!apiKey) {
-      throw new Error(
-        'No Gemini API Key found. Please add your Gemini API Key in Settings (⚙️) or set VITE_GEMINI_API_KEY in your environment to chat with Shabby.'
-      );
+    const customKey = this.getActiveApiKey();
+    const headers: Record<string, string> = {
+      'Content-Type': 'application/json',
+    };
+    if (customKey) {
+      headers['x-gemini-api-key'] = customKey;
     }
 
-    // Prepare contents array
-    const contents: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [];
-
-    // If active quote is present, inject brief quote context in history if needed
-    if (activeQuote && history.length === 0) {
-      contents.push({
-        role: 'user',
-        parts: [
-          {
-            text: `[Context: I am reflecting on this quote from ChronoQuotes: "${activeQuote.text}" by ${activeQuote.author}${activeQuote.source ? ` (${activeQuote.source})` : ''}. Time theme: ${activeQuote.timeCategories.join(', ')}. Genres: ${activeQuote.genres.join(', ')}.]`,
-          },
-        ],
+    try {
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers,
+        body: JSON.stringify({
+          prompt,
+          history: history.slice(-8),
+          activeQuote,
+        }),
       });
-      contents.push({
-        role: 'model',
-        parts: [
-          {
-            text: `Understood! I am ready to delve into "${activeQuote.text}" by ${activeQuote.author} with you. How would you like us to explore it?`,
-          },
-        ],
-      });
-    }
 
-    // Add previous history (last 8 messages for context window management)
-    const recentHistory = history.slice(-8);
-    for (const msg of recentHistory) {
-      contents.push({
-        role: msg.role,
-        parts: [{ text: msg.text }],
-      });
-    }
-
-    // Add current prompt
-    contents.push({
-      role: 'user',
-      parts: [{ text: prompt }],
-    });
-
-    let lastError: Error | null = null;
-
-    // Try each model sequentially in case of 503 high demand or temporary errors
-    for (const model of FALLBACK_MODELS) {
-      try {
-        const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
-        
-        const response = await fetch(url, {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            systemInstruction: {
-              parts: [{ text: SYSTEM_INSTRUCTION }],
-            },
-            contents,
-            generationConfig: {
-              temperature: 0.75,
-              topK: 40,
-              topP: 0.95,
-              maxOutputTokens: 1000,
-            },
-          }),
-        });
-
-        if (!response.ok) {
-          const errorData = await response.json().catch(() => ({}));
-          const errMsg = errorData?.error?.message || `HTTP ${response.status}`;
-          // If model is busy (503) or not found (404), try next model
-          if (response.status === 503 || response.status === 404) {
-            console.warn(`Model ${model} unavailable (${errMsg}), falling back to next...`);
-            lastError = new Error(errMsg);
-            continue;
+      if (!response.ok) {
+        let errorMsg = `Server error (HTTP ${response.status})`;
+        try {
+          const errorData = await response.json();
+          if (errorData?.error && typeof errorData.error === 'string') {
+            errorMsg = errorData.error;
           }
-          throw new Error(errMsg);
+        } catch {
+          // Response body was not JSON
         }
-
-        const data = await response.json();
-        const candidateText = data?.candidates?.[0]?.content?.parts?.[0]?.text;
-
-        if (candidateText && typeof candidateText === 'string') {
-          return candidateText.trim();
-        }
-
-        throw new Error('No response text returned by model.');
-      } catch (err: any) {
-        lastError = err;
-        console.warn(`Gemini request failed on model ${model}:`, err?.message);
+        throw new Error(errorMsg);
       }
-    }
 
-    throw lastError || new Error('Could not connect to Shabby right now. Please check your network or try again.');
+      const data = await response.json();
+      if (data?.text && typeof data.text === 'string') {
+        return data.text.trim();
+      }
+
+      throw new Error('No response text returned by Shabby service.');
+    } catch (err: any) {
+      throw err instanceof Error
+        ? err
+        : new Error('Network error connecting to Shabby service.');
+    }
   }
 
   /**
