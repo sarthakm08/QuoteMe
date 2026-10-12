@@ -7,6 +7,8 @@ import { ExploreSection } from './components/ExploreSection';
 import { FavoritesModal } from './components/FavoritesModal';
 import { AboutModal } from './components/AboutModal';
 import { TimeTravelerModal } from './components/TimeTravelerModal';
+import { ShabbyChatModal } from './components/ShabbyChatModal';
+import { ShabbyTriggerButton } from './components/ShabbyTriggerButton';
 import { MobileNav } from './components/MobileNav';
 import { Footer } from './components/Footer';
 import { ToastContainer } from './components/Toast';
@@ -64,6 +66,8 @@ export const App: React.FC = () => {
   const [isFavoritesOpen, setIsFavoritesOpen] = useState(false);
   const [isAboutOpen, setIsAboutOpen] = useState(false);
   const [isSimulatorOpen, setIsSimulatorOpen] = useState(false);
+  const [isShabbyOpen, setIsShabbyOpen] = useState(false);
+  const [shabbyQuote, setShabbyQuote] = useState<Quote | null>(null);
   const [toasts, setToasts] = useState<ToastMessage[]>([]);
 
   // Apply theme to HTML root
@@ -287,6 +291,15 @@ export const App: React.FC = () => {
     }
   }, []);
 
+  const handleOpenShabby = useCallback((quote?: Quote) => {
+    if (quote) {
+      setShabbyQuote(quote);
+    } else if (activeQuoteData) {
+      setShabbyQuote(activeQuoteData.quote);
+    }
+    setIsShabbyOpen(true);
+  }, [activeQuoteData]);
+
   const currentSlotConfig = TIME_SLOTS[effectiveTimeSlot];
 
   return (
@@ -307,6 +320,7 @@ export const App: React.FC = () => {
         onOpenAbout={() => setIsAboutOpen(true)}
         theme={theme}
         onToggleTheme={() => setTheme((t) => (t === 'light' ? 'dark' : 'light'))}
+        onOpenShabby={() => handleOpenShabby()}
       />
 
       {/* Main Content Area */}
@@ -342,6 +356,7 @@ export const App: React.FC = () => {
             }}
             isCuratedContext={activeQuoteData.isCuratedContext}
             onReturnToCircadian={handleReturnToCircadian}
+            onOpenShabby={handleOpenShabby}
           />
         ) : (
           <div className="w-full max-w-xl mx-auto p-12 text-center text-stone-500 font-sans">
@@ -358,6 +373,7 @@ export const App: React.FC = () => {
           onSelectAsFeatured={handleSelectQuoteFromArchive}
           onToggleFavorite={handleToggleFavorite}
           onShowToast={showToast}
+          onOpenShabby={handleOpenShabby}
         />
       </main>
 
@@ -366,6 +382,12 @@ export const App: React.FC = () => {
         onOpenAbout={() => setIsAboutOpen(true)}
         onOpenSimulator={() => setIsSimulatorOpen(true)}
         databaseStatus={dbStatus}
+      />
+
+      {/* Floating Shabby AI Trigger Button */}
+      <ShabbyTriggerButton
+        onOpenShabby={() => handleOpenShabby()}
+        isOpen={isShabbyOpen}
       />
 
       {/* Mobile Bottom Navigation Bar (Android & iPhone thumbs) */}
@@ -390,6 +412,7 @@ export const App: React.FC = () => {
         onToggleFavorite={handleToggleFavorite}
         onSelectQuote={handleSelectQuoteFromArchive}
         onShowToast={showToast}
+        onOpenShabby={handleOpenShabby}
       />
 
       <AboutModal isOpen={isAboutOpen} onClose={() => setIsAboutOpen(false)} />
@@ -401,6 +424,14 @@ export const App: React.FC = () => {
         simulatedHour={simulatedDate ? timeDetails.hour24 : null}
         onApplySimulatedTime={handleApplySimulatedTime}
         onResetToLive={handleResetToLive}
+      />
+
+      {/* Shabby AI Chatbot Modal */}
+      <ShabbyChatModal
+        isOpen={isShabbyOpen}
+        onClose={() => setIsShabbyOpen(false)}
+        activeQuote={shabbyQuote || activeQuoteData?.quote || null}
+        onShowToast={showToast}
       />
     </div>
   );

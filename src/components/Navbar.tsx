@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sun, Moon, Bookmark, Clock, Compass, Info } from 'lucide-react';
+import { Sun, Moon, Bookmark, Clock, Compass, Info, Sparkles } from 'lucide-react';
 import type { ISTTimeDetails } from '../utils/timeEngine';
 
 interface NavbarProps {
@@ -12,6 +12,7 @@ interface NavbarProps {
   onOpenAbout: () => void;
   theme: 'light' | 'dark';
   onToggleTheme: () => void;
+  onOpenShabby?: () => void;
 }
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -24,6 +25,7 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenAbout,
   theme,
   onToggleTheme,
+  onOpenShabby,
 }) => {
   return (
     <header className="sticky top-0 z-40 w-full backdrop-blur-md bg-[#F7F5F0]/90 dark:bg-[#151515]/90 border-b border-[#E8E4DC] dark:border-[#262626] transition-colors duration-300">
@@ -96,6 +98,17 @@ export const Navbar: React.FC<NavbarProps> = ({
             <Info className="w-3.5 h-3.5" />
             <span>About</span>
           </button>
+
+          {onOpenShabby && (
+            <button
+              onClick={onOpenShabby}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium bg-[#737B5B]/10 hover:bg-[#737B5B]/20 text-[#737B5B] dark:text-[#9CA87F] transition-all cursor-pointer font-editorial"
+              aria-label="Chat with Shabby AI"
+            >
+              <Sparkles className="w-3.5 h-3.5 animate-pulse text-amber-500" />
+              <span>Ask Shabby</span>
+            </button>
+          )}
         </nav>
 
         {/* Right Tools: Live Clock Pill & Theme Toggle */}

@@ -23,6 +23,7 @@ interface ExploreSectionProps {
   onSelectAsFeatured: (quote: Quote, contextPool?: Quote[], contextTitle?: string) => void;
   onToggleFavorite: (id: string) => void;
   onShowToast: (message: string, type?: 'success' | 'info') => void;
+  onOpenShabby?: (quote: Quote) => void;
 }
 
 type TabType = 'slot' | 'trending' | 'history' | 'random';
@@ -35,6 +36,7 @@ export const ExploreSection: React.FC<ExploreSectionProps> = ({
   onSelectAsFeatured,
   onToggleFavorite,
   onShowToast,
+  onOpenShabby,
 }) => {
   const [activeTab, setActiveTab] = useState<TabType>('slot');
   const [searchQuery, setSearchQuery] = useState('');
@@ -287,6 +289,20 @@ export const ExploreSection: React.FC<ExploreSectionProps> = ({
                   >
                     <Bookmark className={`w-3.5 h-3.5 ${isFav ? 'fill-current' : ''}`} />
                   </button>
+
+                  {onOpenShabby && (
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onOpenShabby(q);
+                      }}
+                      className="p-2 sm:p-1.5 rounded-lg hover:bg-[#737B5B]/15 text-[#737B5B] dark:text-[#9CA87F] transition-colors cursor-pointer"
+                      title="Ask Shabby to explain or translate"
+                      aria-label="Ask Shabby"
+                    >
+                      <Sparkles className="w-3.5 h-3.5 text-amber-500" />
+                    </button>
+                  )}
 
                   <span className="p-1 text-stone-300 dark:text-stone-700 group-hover:text-[#737B5B] transition-colors">
                     <ArrowUpRight className="w-3.5 h-3.5" />

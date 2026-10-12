@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { X, Bookmark, Trash2, Copy, Check, Download, ArrowRight } from 'lucide-react';
+import { X, Bookmark, Trash2, Copy, Check, Download, ArrowRight, Sparkles } from 'lucide-react';
 import type { Quote } from '../types';
 
 interface FavoritesModalProps {
@@ -10,6 +10,7 @@ interface FavoritesModalProps {
   onToggleFavorite: (id: string) => void;
   onSelectQuote: (quote: Quote, contextPool?: Quote[], contextTitle?: string) => void;
   onShowToast: (message: string, type?: 'success' | 'info') => void;
+  onOpenShabby?: (quote: Quote) => void;
 }
 
 export const FavoritesModal: React.FC<FavoritesModalProps> = ({
@@ -20,6 +21,7 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
   onToggleFavorite,
   onSelectQuote,
   onShowToast,
+  onOpenShabby,
 }) => {
   const [selectedGenre, setSelectedGenre] = useState<string>('all');
   const [copiedId, setCopiedId] = useState<string | null>(null);
@@ -182,6 +184,19 @@ export const FavoritesModal: React.FC<FavoritesModalProps> = ({
                     >
                       <Trash2 className="w-3.5 h-3.5" />
                     </button>
+                    {onOpenShabby && (
+                      <button
+                        onClick={() => {
+                          onOpenShabby(quote);
+                          onClose();
+                        }}
+                        className="p-1.5 rounded-lg text-[#737B5B] hover:text-[#555C40] hover:bg-[#737B5B]/10 transition-colors"
+                        title="Ask Shabby to explain or translate"
+                        aria-label="Ask Shabby"
+                      >
+                        <Sparkles className="w-3.5 h-3.5 text-amber-500" />
+                      </button>
+                    )}
                     <button
                       onClick={() => {
                         onSelectQuote(quote, filtered, 'Saved Favorites');

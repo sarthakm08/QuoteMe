@@ -8,6 +8,7 @@ import {
   Check,
   Info,
   BadgeCheck,
+  Sparkles,
 } from 'lucide-react';
 import type { Quote, SelectionReason } from '../types';
 import { GENRE_METADATA } from '../data/genreMetadata';
@@ -26,6 +27,7 @@ interface FeaturedQuoteCardProps {
   };
   isCuratedContext?: boolean;
   onReturnToCircadian?: () => void;
+  onOpenShabby?: (quote: Quote) => void;
 }
 
 export const FeaturedQuoteCard: React.FC<FeaturedQuoteCardProps> = ({
@@ -39,6 +41,7 @@ export const FeaturedQuoteCard: React.FC<FeaturedQuoteCardProps> = ({
   collectionInfo,
   isCuratedContext,
   onReturnToCircadian,
+  onOpenShabby,
 }) => {
   const [copied, setCopied] = useState(false);
   const [isFading, setIsFading] = useState(false);
@@ -233,6 +236,19 @@ export const FeaturedQuoteCard: React.FC<FeaturedQuoteCardProps> = ({
               >
                 <Share2 className="w-4 h-4" />
               </button>
+
+              {/* Ask Shabby Companion */}
+              {onOpenShabby && (
+                <button
+                  onClick={() => onOpenShabby(quote)}
+                  className="px-2.5 sm:px-3 py-2 sm:py-2.5 rounded-xl border border-[#737B5B]/30 bg-[#737B5B]/10 hover:bg-[#737B5B]/20 text-[#737B5B] dark:text-[#9CA87F] font-medium transition-all cursor-pointer min-w-[38px] min-h-[38px] flex items-center justify-center gap-1.5 shadow-xs"
+                  title="Ask Shabby to explain or translate this quote"
+                  aria-label="Ask Shabby about this quote"
+                >
+                  <Sparkles className="w-4 h-4 animate-pulse text-amber-500 dark:text-amber-300" />
+                  <span className="text-xs font-editorial font-semibold">Shabby</span>
+                </button>
+              )}
 
               {/* Previous Quote Button */}
               {onPrevQuote && (
